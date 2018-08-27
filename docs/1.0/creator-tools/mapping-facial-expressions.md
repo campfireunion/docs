@@ -67,6 +67,26 @@ Since this method only uses the concept of mouth open/closed, it works great for
 
 * Texture sizes that are square and sized in multiples of 2 (e.g., 128, 256, 512, 1024, 2048) work more optimally in the VR engine.
 
+## Animation mapping
+
+1\. Open your character's Unity scene and select the character in the Hierarchy pane.
+
+2\. In the Inspector pane, change the **Expression Type** setting to **Animation**.
+
+3\. Scroll down a bit and click **Setup Animator**. This will create an animator on the character's head that can be used to create facial animations.
+
+4\. Click on the Expression Animator reference, this will highlight the head GameObject in the scene. Select the head to begin creating animations.
+
+5\. Go to _Window > Animation_ and then with the character's head selected, click Create in the Animation window.
+
+6\. Make animations for each viseme you want to use. You can re-use viseme animations if you don't want to make all of the variations.
+
+7\. You will need to create a base animation that is a combination of all of the properties used in all of your animations. Make it look how you want your character to look when it is idle. This will stop Unity's animations from adding onto themselves which can cause unwanted artifacts.
+
+8\. Select the Controller in the head animator. Go to the Animator window (not the _Animation_ window) found at _Window > Animator_. From here, add each animation as the only animation in each animation layer. Be sure to add your base animation to the base layer to keep the animations grounded.
+
+If you only have one talking animation, add it as the animation for each viseme layer in the Animator window.
+
 ## Need help?
 
 [Contact us](/contact) to help you create and import your own custom characters.
