@@ -339,7 +339,7 @@ class Doc {
 	 * Convert a link to the most recent version of the docs.
 	 */
 	public static function most_recent_link ($link, $version) {
-		return preg_replace ('/^[^\/]+\//', $version . '/', $link);
+		return preg_replace ('/^[^\/]+\/?/', $version . '/', $link);
 	}
 	
 	/**
