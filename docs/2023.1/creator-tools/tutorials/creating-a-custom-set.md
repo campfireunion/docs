@@ -21,7 +21,7 @@ that make it more useful for you.
 
 1. Create a new scene in Unity by choosing **File > New Scene**.
 2. Add your basic set elements to your new scene. You can also wait and do this after the remaining steps too.
-3. Save your scene file by choosing **File > Save Scenes**. The first time you save your scene you will be asked to choose a file name.
+3. Save your scene file by choosing **File > Save**. The first time you save your scene you will be asked to choose a file name.
 4. Convert your scene into a Flipside set by choosing **Flipside Creator Tools > Create Set From Current Scene**.
 5. Save your scene again.
 
