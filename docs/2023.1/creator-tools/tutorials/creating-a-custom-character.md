@@ -7,7 +7,7 @@ here are the steps to create a custom character for your Flipside shows.
 
 Characters in Flipside are 3D models with humanoid rigs (skeletal structures). These can
 be made in character creation tools like [Adobe Fuse](http://www.adobe.com/ca/products/fuse.html), [Mixamo](https://www.mixamo.com/#/), [Daz3D](https://www.daz3d.com/), or [VRoid Studio](https://vroid.com/en/studio), or in any 3D modelling program such as
-≈ or [Maya](https://www.autodesk.ca/en/products/maya/overview).
+[Blender](https://www.blender.org/) or [Maya](https://www.autodesk.ca/en/products/maya/overview).
 
 Character models must be exported in the FBX file format.
 
