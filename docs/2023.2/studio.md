@@ -56,6 +56,7 @@ Technical requirements, input controls, supported formats.
 
 :/div
 
+<!--
 :div class="e-row-variable" style="background-color: var(--light-grey)"
 
 :div class="e-col-100 text-center"
@@ -71,6 +72,7 @@ Everything you need to know<br />about early access to Flipside 2023.2.
 :/div
 
 :/div
+-->
 
 :nbsp
 
