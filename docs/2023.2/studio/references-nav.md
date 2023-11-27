@@ -10,10 +10,9 @@
   * [[Studio / References / Characters]]
   * [[Studio / References / Creator profile]]
   * [[Studio / References / Desktop interface]]
-<!--  * [[Studio / References / Exports]] -->
+  * [[Studio / References / Exports]]
   * [[Studio / References / Settings]]
   * [[Studio / References / Slideshow formats]]
   * [[Studio / References / Tips and tricks]]
-* [[Studio / 2023.2 Early Access]]
 * [[What's new]]
 * [[Getting help]]
