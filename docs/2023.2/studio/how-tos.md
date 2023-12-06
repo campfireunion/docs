@@ -10,7 +10,7 @@ Watch the immersive content creators share and subscribe to your favorite channe
 [[> Watching content / Watching a post]]
 
 ## Motion and scene capture
-Record your spatial content so you can watch it in VR.
+Record your spatial content so you can watch it in VR and share it with the public.
 
 [[> Motion and scene capture / How to make a motion capture recording]]
 
