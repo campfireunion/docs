@@ -3,12 +3,14 @@
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
 ## Watching content
+Watch the immersive content creators share and subscribe to your favorite channels.
 
 [[> Watching content / Subscribing to a channel]]
 
 [[> Watching content / Watching a post]]
 
 ## Motion and scene capture
+Record your spatial content so you can watch it in VR.
 
 [[> Motion and scene capture / How to make a motion capture recording]]
 
@@ -21,6 +23,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Motion and scene capture / How to manage your motion capture recordings]]
 
 ## Posting content to your channel
+Your channel is your public profile.  It’s where people can learn about you and watch your content.  Set up your channel and share your spatial content with your audience.
 
 [[> Posting content to your channel / Setting up and editing your channel]]
 
@@ -29,6 +32,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Posting content to your channel / Editing your post details]]
 
 ## Recording and live streaming
+Get your content out of VR to share with your 2D audience.
 
 [[> Recording and live streaming / How to take photos in Flipside Studio]]
 
@@ -43,6 +47,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Recording and live streaming / How to get content out of Flipside Studio]]
 
 ## Cameras
+Everything you need to know about using cameras in Flipside Studio.
 
 [[> Cameras / How to use cameras in Flipside Studio]]
 
@@ -55,6 +60,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Cameras / How to add post-processing effects]]
 
 ## Show tools
+Production tools that will help you craft your content.
 
 [[> Show tools / How to use live monitors]]
 
@@ -77,6 +83,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Show tools / AI Script Creator]]
 
 ## Characters
+Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own.
 
 [[> Characters / How to embody characters]]
 
@@ -93,6 +100,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
+Select the perfect scene from our preloaded sets or import your own.
 
 [[> Sets / How to use sets]]
 
@@ -109,6 +117,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Sets / AI Set Creator]]
 
 ## Props
+Dress your environment with everything you need.
 
 [[> Props / How to add props to a set]]
 
@@ -125,6 +134,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Props / How to create and import your own props]]
 
 ## Audio
+Bring in sound effects, background tracks, or drive your character's lipsync.
 
 [[> Audio / Using the Audio Browser]]
 
@@ -133,6 +143,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Audio / Uploading your own audio files]]
 
 ## Collaboration
+Connect with other people!  Add friends, create a project team, and join people in multiplayer sessions.
 
 [[> Collaboration / How to find and add friends]]
 
