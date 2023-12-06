@@ -2,6 +2,12 @@
 
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
+## Watching content
+
+[[> Watching content / Subscribing to a channel]]
+
+[[> Watching content / Watching a post]]
+
 ## Motion and scene capture
 
 [[> Motion and scene capture / How to make a motion capture recording]]
@@ -13,6 +19,14 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Motion and scene capture / How to add parts to an existing motion capture recording]]
 
 [[> Motion and scene capture / How to manage your motion capture recordings]]
+
+## Posting content to your channel
+
+[[> Posting content to your channel / Setting up and editing your channel]]
+
+[[> Posting content to your channel / Publishing a post]]
+
+[[> Posting content to your channel / Editing your post details]]
 
 ## Recording and live streaming
 
@@ -109,6 +123,14 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Props / How to draw your own props with the Magic Pencil]]
 
 [[> Props / How to create and import your own props]]
+
+## Audio
+
+[[> Audio / Using the Audio Browser]]
+
+[[> Audio / Using the Audio Controller]]
+
+[[> Audio / Uploading your own audio files]]
 
 ## Collaboration
 
