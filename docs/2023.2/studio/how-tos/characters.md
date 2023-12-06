@@ -1,5 +1,7 @@
 # Characters
 
+Choose the right character for your content. Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.
+
 [[> How to embody characters]]
 
 [[> How to use facial expressions]]
