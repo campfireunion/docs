@@ -3,14 +3,14 @@
 The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
 ## Watching content
-Watch the immersive content creators share and subscribe to your favorite channels.
+**Watch the immersive content creators share and subscribe to your favorite channels.**
 
 [[> Watching content / Subscribing to a channel]]
 
 [[> Watching content / Watching a post]]
 
 ## Motion and scene capture
-Record your spatial content so you can watch it in VR and share it with the public.
+**Record your spatial content so you can watch it in VR and share it with the public.**
 
 [[> Motion and scene capture / How to make a motion capture recording]]
 
@@ -25,7 +25,7 @@ Record your spatial content so you can watch it in VR and share it with the publ
 [[> Motion and scene capture / How to remix a post]]
 
 ## Posting content to your channel
-Your channel is your public profile.  It’s where people can learn about you and watch your content.  Set up your channel and share your spatial content with your audience.
+**Your channel is your public profile.  It’s where people can learn about you and watch your content.  Set up your channel and share your spatial content with your audience.**
 
 [[> Posting content to your channel / Setting up and editing your channel]]
 
@@ -34,7 +34,7 @@ Your channel is your public profile.  It’s where people can learn about you an
 [[> Posting content to your channel / Editing your post details]]
 
 ## Recording and live streaming
-Get your content out of VR to share with your 2D audience.
+**Get your content out of VR to share with your 2D audience.**
 
 [[> Recording and live streaming / How to take photos in Flipside Studio]]
 
@@ -49,7 +49,7 @@ Get your content out of VR to share with your 2D audience.
 [[> Recording and live streaming / How to get content out of Flipside Studio]]
 
 ## Cameras
-Flipside Studio comes with a camera system that lets your craft content for flat screens.
+**Flipside Studio comes with a camera system that lets your craft content for flat screens.**
 
 [[> Cameras / How to use cameras in Flipside Studio]]
 
@@ -62,7 +62,7 @@ Flipside Studio comes with a camera system that lets your craft content for flat
 [[> Cameras / How to add post-processing effects]]
 
 ## Show tools
-Production tools to help you create.
+**Production tools to help you create.**
 
 [[> Show tools / How to use live monitors]]
 
@@ -85,7 +85,7 @@ Production tools to help you create.
 [[> Show tools / AI Script Creator]]
 
 ## Characters
-Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.
+**Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.**
 
 [[> Characters / How to embody characters]]
 
@@ -102,7 +102,7 @@ Choose the right character for your content.  Select from our preloaded characte
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
-Select or create the perfect scene. 
+**Select or create the perfect scene. **
 
 [[> Sets / How to use sets]]
 
@@ -119,7 +119,7 @@ Select or create the perfect scene.
 [[> Sets / AI Set Creator]]
 
 ## Props
-Dress your set with everything you need.
+**Dress your set with everything you need.**
 
 [[> Props / How to add props to a set]]
 
@@ -136,7 +136,7 @@ Dress your set with everything you need.
 [[> Props / How to create and import your own props]]
 
 ## Audio
-Bring in sound effects, background tracks, or drive your character's lipsync.
+**Bring in sound effects, background tracks, or drive your character's lipsync.**
 
 [[> Audio / Using the Audio Browser]]
 
@@ -145,8 +145,8 @@ Bring in sound effects, background tracks, or drive your character's lipsync.
 [[> Audio / Uploading your own audio files]]
 
 ## Collaboration
-Connect with other people!  Add friends, create a project team, and join people in multiplayer sessions.
-
+**Connect with other people!  Add friends, create a project team, and join people in multiplayer sessions.
+**
 [[> Collaboration / How to find and add friends]]
 
 [[> Collaboration / How to invite friends to collaborate over multiplayer]]
