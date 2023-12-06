@@ -4,7 +4,7 @@ The following pages include input controls, menu options, supported file formats
 
 * [[> Controller basics]]
 * [[> Menu overview]]
-* [> Dashboard]]
+* [[> Dashboard]]
 * [[> Cameras]]
 * [[> Characters]]
     * [[> Characters / Calibrating your tracking]]
