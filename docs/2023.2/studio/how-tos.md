@@ -102,7 +102,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
-**Select or create the perfect scene. **
+**Select or create the perfect scene.**
 
 [[> Sets / How to use sets]]
 
@@ -145,8 +145,8 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Audio / Uploading your own audio files]]
 
 ## Collaboration
-**Connect with other people!  Add friends, create a project team, and join people in multiplayer sessions.
-**
+**Connect with other people!  Add friends, create a project team, and join people in multiplayer sessions.**
+
 [[> Collaboration / How to find and add friends]]
 
 [[> Collaboration / How to invite friends to collaborate over multiplayer]]
