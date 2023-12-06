@@ -1,5 +1,7 @@
 # Cameras
 
+Flipside Studio comes with a camera system that lets your craft content for flat screens.
+
 [[> How to use cameras in Flipside Studio]]
 
 [[> How to set up multiple cameras]]
