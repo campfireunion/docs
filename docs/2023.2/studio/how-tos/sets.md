@@ -1,6 +1,6 @@
 # Sets
 
-Select or create the perfect scene.
+Select or import the perfect scene.
 
 [[> How to use sets]]
 
