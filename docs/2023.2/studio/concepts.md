@@ -8,6 +8,7 @@ Use these links to explore the different concepts used in Flipside Studio.
 
 * [[> Characters]]
 * [[> Props and sets]]
+* [[> Audio]]
 * [[> Recording]]
 * [[> Cameras]]
 * [[> Multiplayer]]
