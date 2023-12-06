@@ -14,7 +14,7 @@ You can watch any post a Creator has shared immersively in VR!
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_13-4_3.mp4
 
-> **Note**: Creators can let you put your own spin on their content.  If you're inspired by something you've watched, try remixing!  Learn [[:how to remix a post]].
+> **Note**: Creators can let you put your own spin on their content.  If you're inspired by something you've watched, try remixing!  Learn [[> Motion and scene capture / how to remix a post]].
 
 ---
 
