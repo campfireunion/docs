@@ -83,7 +83,7 @@ Production tools to help you create.
 [[> Show tools / AI Script Creator]]
 
 ## Characters
-Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own.
+Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.
 
 [[> Characters / How to embody characters]]
 
@@ -100,7 +100,7 @@ Choose the right character for your content.  Select from our preloaded characte
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
-Select the perfect scene from our preloaded sets or import your own.
+Select or create the perfect scene. 
 
 [[> Sets / How to use sets]]
 
@@ -117,7 +117,7 @@ Select the perfect scene from our preloaded sets or import your own.
 [[> Sets / AI Set Creator]]
 
 ## Props
-Dress your environment with everything you need.
+Dress your set with everything you need.
 
 [[> Props / How to add props to a set]]
 
