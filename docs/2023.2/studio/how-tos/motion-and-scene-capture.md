@@ -10,6 +10,8 @@
 
 [[> How to manage your motion capture recordings]]
 
+[[> How to remix a post]]
+
 ---
 
 **Next:** [[: Posting content to your channel]]
