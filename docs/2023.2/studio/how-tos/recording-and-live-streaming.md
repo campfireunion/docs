@@ -1,5 +1,7 @@
 # Recording and live streaming
 
+Get your content out of VR to share with your 2D audience.
+
 [[> How to take photos in Flipside Studio]]
 
 [[> How to record video in Flipside Studio]]
