@@ -22,6 +22,8 @@ Record your spatial content so you can watch it in VR and share it with the publ
 
 [[> Motion and scene capture / How to manage your motion capture recordings]]
 
+[[> Motion and scene capture / How to remix a post]]
+
 ## Posting content to your channel
 Your channel is your public profile.  It’s where people can learn about you and watch your content.  Set up your channel and share your spatial content with your audience.
 
