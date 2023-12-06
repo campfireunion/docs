@@ -60,7 +60,7 @@ Flipside Studio comes with a camera system that lets your craft content for flat
 [[> Cameras / How to add post-processing effects]]
 
 ## Show tools
-Production tools that will help you craft your content.
+Production tools to help you create.
 
 [[> Show tools / How to use live monitors]]
 
