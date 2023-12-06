@@ -9,6 +9,7 @@
   * [[Studio / References / Dashboard]]
   * [[Studio / References / Cameras]]
   * [[Studio / References / Characters]]
+  * [[Studio / References / Audio]]
   * [[Studio / References / Creator profile]]
   * [[Studio / References / Desktop interface]]
   <!-- * [[Studio / References / Exports]] -->
