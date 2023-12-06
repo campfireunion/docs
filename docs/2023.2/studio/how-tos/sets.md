@@ -1,5 +1,7 @@
 # Sets
 
+Select or create the perfect scene.
+
 [[> How to use sets]]
 
 [[> How to move and scale a set]]
