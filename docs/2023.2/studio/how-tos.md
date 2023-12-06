@@ -102,7 +102,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Characters / How to create and import your own characters]]
 
 ## Sets
-**Select or create the perfect scene.**
+**Select or import the perfect scene.**
 
 [[> Sets / How to use sets]]
 
