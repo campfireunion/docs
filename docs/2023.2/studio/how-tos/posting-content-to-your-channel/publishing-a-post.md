@@ -22,5 +22,5 @@ Alternatively,  if the take you want to post is loaded, you can click **Publish 
 
 ---
 
-**Next:** [[:Editing post details]]
+**Next:** [[:Editing your post details]]
 
