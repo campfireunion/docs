@@ -47,7 +47,7 @@ Get your content out of VR to share with your 2D audience.
 [[> Recording and live streaming / How to get content out of Flipside Studio]]
 
 ## Cameras
-Everything you need to know about using cameras in Flipside Studio.
+Flipside Studio comes with a camera system that lets your craft content for flat screens.
 
 [[> Cameras / How to use cameras in Flipside Studio]]
 
