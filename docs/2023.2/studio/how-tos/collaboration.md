@@ -1,5 +1,7 @@
 # Collaboration
 
+Connect with other people! Add friends, create a project team, and join people in multiplayer sessions.
+
 [[> How to find and add friends]]
 
 [[> How to invite friends to collaborate over multiplayer]]
