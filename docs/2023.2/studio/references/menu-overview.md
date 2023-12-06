@@ -56,4 +56,4 @@ The main panel categories such as characters and sets can only be opened one at 
 
 ---
 
-**Next:** [[: Cameras ]]
+**Next:** [[: Dashboard ]]
