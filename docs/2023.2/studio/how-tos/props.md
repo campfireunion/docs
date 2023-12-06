@@ -1,5 +1,7 @@
 # Props
 
+Dress your set with everything you need.
+
 [[> How to add props to a set]]
 
 [[> How to grab and interact with props]]
