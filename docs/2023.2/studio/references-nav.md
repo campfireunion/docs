@@ -6,6 +6,7 @@
 * [[Studio / References]]
   * [[Studio / References / Controller basics]]
   * [[Studio / References / Menu overview]]
+  * [[Studio / References / Dashboard]]
   * [[Studio / References / Cameras]]
   * [[Studio / References / Characters]]
   * [[Studio / References / Creator profile]]
