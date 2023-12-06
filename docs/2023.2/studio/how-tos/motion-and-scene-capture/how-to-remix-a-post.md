@@ -1,6 +1,6 @@
-# Remixing a post
+# How to remix a post
 
-Creators can allow viewers to remix their content to create something new.
+You can put your spin on someone else's content by remixing a post.
 
 **Step 1.** With a post loaded, press **menu** button on either controller to open the **main menu**.  If a post is remixable, a **remix** button will appear.
 
