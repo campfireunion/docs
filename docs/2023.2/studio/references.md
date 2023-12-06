@@ -11,6 +11,7 @@ The following pages include input controls, menu options, supported file formats
 <!-- * [[> Characters / Full-body tracking]] -->
     * [[> Characters / Puppeteering]]
     * [[> Characters / Stand-ins]]
+* [[> Audio]]
 * [[> Creator profile]]
 * [[> Desktop interface]]
 <!--   * [[> Desktop interface / Take editor]]
