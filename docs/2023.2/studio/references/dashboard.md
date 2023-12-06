@@ -5,6 +5,7 @@ The Dashboard is where you browse content, view your channel and the people you 
 Open the Dashboard through button the main menu.
 
 **On the Dashboard, you’ll find the following:**
+
 *  **Browse**:  This is where you access all the spatial content shared by other Flipside Studio creators.  Search by featured content, content shared by creators you subscribed to, or by category.
 *  **My Channel**: View and edit your public channel on the My Channel tab.  This is where people can learn about you and access all of your content in one place.
 *  **Subscriptions**: See a list of all the people you’ve subscribed to for quick access to their channel.
