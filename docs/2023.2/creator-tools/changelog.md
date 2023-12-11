@@ -9,6 +9,7 @@
 - Added colours to help indicate problem areas in the Resource Usage panel on characters, sets, and prop kits
 - Added `ResetAndReload()` to GunElement to also reset the bullets when reloading
 - Bolded key information in warnings and other info text
+- Force character scale to 1 in the scene so scale has to be changed the correct way via the model's scale factor setting
 
 ### Bug fixes
 
