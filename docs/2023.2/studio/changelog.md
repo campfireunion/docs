@@ -12,6 +12,7 @@
 - New cursor lets you click to edit anywhere in a post's title or description for easier text edits
 - Added show/hide UI button to all cameras instead of just on the camera switcher
 - Improved menu behaviour and positioning consistency
+- Flipside now records voices of invisible users so you can record narrator parts, which can be muted or deleted via the parts menu
 
 ## Bug fixes
 
@@ -21,6 +22,7 @@
 - Fixed inconsistency issues with playback of interactive props
 - Fixed bullets resetting their kinematic setting on reload
 - Fixed a case where scoreboards could award double points
+- Fixed Flipside crashing on exiting a call through Meta's calling feature
 - Added redundancy to network connectivity checking
 
 ## 2023.2.0-beta3
