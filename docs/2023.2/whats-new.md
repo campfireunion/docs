@@ -6,7 +6,7 @@ Check back here to learn about all the latest changes to Flipside.
 
 **2023.2.0-stable**<br>
 <span>[Studio Changelog](/docs/2023.2/studio/changelog#202320-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202320-stable)</span><br>
-<small>December 12, 2023</small><br>
+<small>December 13, 2023</small><br>
 A new era for next-gen creators! Browse immersive content, create a Flipside channel and build a fanbase, direct messages, and many UX improvements.
 
 **2023.2.0-beta3**<br>
