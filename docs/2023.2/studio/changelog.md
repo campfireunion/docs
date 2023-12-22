@@ -1,5 +1,21 @@
 # Flipside Studio Changelog
 
+## 2023.2.1-stable
+
+### Improvements
+
+- If a channel doesn't have a thumbnail yet, posts default to using the set's thumbnail instead
+- Added a "play on record" button to the audio controller to make recording with audio clips easier
+- If a post is missing a thumbnail entirely or it fails to load, the default thumbnail now appears in alternating colours
+
+### Bug fixes
+
+- Fixed the in-app Ready Player Me integration in the Characters menu
+- Fixed a bug causing audio to not always play at the start of playback
+- Fixed a missing space in one of the Studio tab banners
+- Fixed a time zone issue with date displays
+- Fixed an incorrect default thumbnail on the channel details screen
+
 ## 2023.2.0-stable
 
 ### Improvements
