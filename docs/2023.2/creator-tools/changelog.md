@@ -1,5 +1,9 @@
 # Flipside Creator Tools Changelog
 
+## 2023.2.1-stable
+
+No changes. Version bump to maintain parity across apps.
+
 ## 2023.2.0-stable
 
 ### Improvements
