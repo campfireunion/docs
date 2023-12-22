@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.2.1-stable**<br>
+<span>[Studio Changelog](/docs/2023.2/studio/changelog#202321-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202321-stable)</span><br>
+<small>December 13, 2023</small><br>
+Ready Player Me avatar creator fixed and upgraded, "play on record" added to audio controller, audio and other bug fixes.
+
 **2023.2.0-stable**<br>
 <span>[Studio Changelog](/docs/2023.2/studio/changelog#202320-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202320-stable)</span><br>
 <small>December 13, 2023</small><br>
