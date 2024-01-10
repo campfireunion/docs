@@ -1,5 +1,17 @@
 # Flipside Studio Changelog
 
+## 2023.2.2-stable
+
+### Improvements
+
+- Added content ratings so users can note whether content is appropriate for everyone, teen (13+), mature (16+), or adult (18+)
+
+### Bug fixes
+
+- Fixed microphone reliability issue when using the Rift version via Quest Link
+- Fixed issue with Carnival set scores playing back correctly when recorded
+- Fixed an issue with the first slide not showing up in recordings
+
 ## 2023.2.1-stable
 
 ### Improvements
