@@ -25,6 +25,12 @@ A gaming laptop or PC with the following minimum specs:
 
 When the installation is complete, Flipside Broadcaster will be available through the Windows start menu.
 
+## Troubleshooting
+
+If you encounter the following popup when trying to install or run Flipside Broadcaster, click **More info** then **Run anyway** on the next screen.
+
+![Windows protected warning](https://www.flipsidexr.com/files/docs/2023.1/windows_protected.png)
+
 ## Useful links
 
 - [[Studio / How tos / Recording and live streaming / How to record video in Flipside Studio]]
