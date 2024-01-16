@@ -4,9 +4,14 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.2.3-stable**<br>
+<span>[Studio Changelog](/docs/2023.2/studio/changelog#202323-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202323-stable)</span><br>
+<small>January 18, 2024</small><br>
+Walk around in Flipside usign our new smooth locomotion mode! Also simplified the Recordings menu and fixed shooting accuracy on the Carnival Funfair set in multiplayer and playback.
+
 **2023.2.2-stable**<br>
 <span>[Studio Changelog](/docs/2023.2/studio/changelog#202322-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202322-stable)</span><br>
-<small>January 11, 2025</small><br>
+<small>January 11, 2024</small><br>
 Added content ratings to posts, along with playback fixes for slideshows and the Carnival Funfair set, and a microphone fixes for Link users.
 
 **2023.2.1-stable**<br>
