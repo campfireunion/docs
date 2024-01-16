@@ -1,5 +1,16 @@
 # Flipside Studio Changelog
 
+## 2023.2.3-stable
+
+### Improvements
+
+- Introducing smooth locomotion! Press B to enable locomotion then use the right hand joystick to walk while continuing to capture your upper body movement
+- Simplified Recordings menu to make it easier to use
+
+### Bug fixes
+
+- Improved firing trajectory accuracy in playback and multiplayer on the Carnival Funfair set
+
 ## 2023.2.2-stable
 
 ### Improvements
