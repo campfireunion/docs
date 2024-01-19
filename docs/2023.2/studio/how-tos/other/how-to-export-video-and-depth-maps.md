@@ -1,7 +1,5 @@
 # How to export video and depth maps
 
-> Note: Data exports are a subscription-only feature of the desktop version of Flipside Studio.
-
 Here's how to export video and depth maps from Flipside Studio:
 
 **Step 1.** Select and load the recording in the **Recordings** menu for the video that you want to export.
