@@ -2,8 +2,6 @@
 
 # Video renderer
 
-> Note: The video renderer is a paid feature. For more information, visit our [pricing page](/pricing).
-
 The video renderer lets you render video from any camera in Flipside Studio in a variety of formats.
 
 You can find the video renderer with these steps:
