@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**2023.2.4-stable**<br>
+<span>[Studio Changelog](/docs/2023.2/studio/changelog#202324-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202324-stable)</span><br>
+<small>January 25, 2024</small><br>
+Share your favourite posts with friends through the hand menu, improved content reporting in the hand menu, and initial support for launching into Destinations on Quest.
+
 **2023.2.3-stable**<br>
 <span>[Studio Changelog](/docs/2023.2/studio/changelog#202323-stable) &middot; [Creator Tools Changelog](/docs/2023.2/creator-tools/changelog#202323-stable)</span><br>
 <small>January 18, 2024</small><br>
