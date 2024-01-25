@@ -1,5 +1,13 @@
 # Flipside Studio Changelog
 
+## 2023.2.4-stable
+
+### Improvements
+
+- Share posts with your friends through the hand menu
+- Improved our content reporting in the hand menu
+- Jump straight to popular posts and channels with Destinations support
+
 ## 2023.2.3-stable
 
 ### Improvements
