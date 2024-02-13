@@ -21,17 +21,17 @@ Character models must be exported in the FBX file format.
 
 3\. Set the **Animation Type** setting to **Humanoid** then click **Apply**.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_2-7_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_1.mp4
 
 4\. Select the character model in Unity's **Project** pane again, then choose **Flipside Creator Tools > Create Character From Selected Model**. Unity will take some time creating and setting up a scene file that will contain your custom character setup.
 
 5\. When the **Import Options** popup appears you can configure your body physics collider options then click **Generate Colliders & Import**. Don't worry too much about what you choose for now, you can re-run this later if you change your mind or want to try the other options.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_2-7_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_2.mp4
 
 6\. Select the root object in Unity's **Hierarchy** pane, then look at the **Inspector** pane and find the **AvatarModelReferences** component. This is where you can configure most aspects of your character, from its name and thumbnail shown in Flipside Studio to its facial expressions and more.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_2-7_3.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_3.mp4
 
 > **Note**: There are many configuration options, which you can find in other [[creator tools / tutorials]] on things like [[: mapping facial expressions]], [[: changing the scale of a character]], or [[: adding movement to hair, cloth, and tails]].
 
@@ -41,7 +41,7 @@ At this point, you should have a basic working character that can be published t
 
 When you're ready to build your character and test it out in Flipside Studio, click the **Build & Publish Character** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Character** button showing how far along you are in uploading and publishing your character.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_2-7_4.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_4.mp4
 
 When that's finished, you will find your character in Flipside Studio under the **Imported Characters** button on the far right of the **Characters** menu categories.
 

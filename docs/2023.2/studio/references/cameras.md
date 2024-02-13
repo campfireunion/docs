@@ -23,7 +23,7 @@ The following camera settings can be adjusted by going to the **Settings** tab o
 - **Camera movement speed (m/s)** - How fast the camera should move between positions when the camera switcher is set to **Move**.
 - **Camera shake** - Whether to apply a shake to cameras so they have a more handheld human feel, and if so, how much.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_4-4_9.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-4_9.mp4
 
 ## Camera switcher
 
@@ -59,7 +59,7 @@ The following camera settings can be adjusted by going to the **Settings** tab o
 - **Camera movement speed (m/s)** - How fast the camera should move between positions when the camera switcher is set to **Move**.
 - **Camera shake** - Whether to apply a shake to cameras so they have a more handheld human feel, and if so, how much.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_4-4_9.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-4_9.mp4
 
 ## Camera switcher
 

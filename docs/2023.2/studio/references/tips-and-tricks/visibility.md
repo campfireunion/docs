@@ -6,7 +6,7 @@ Ghost Mode, as we often call it, will make your character invisible so you can p
 
 To go invisible, open the main menu and choose **Visibility** while in character. Press it again to get back into the last character you were in.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_12.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_12.mp4
 
 --- Platform: Rift ---
 
@@ -14,7 +14,7 @@ Ghost Mode, as we often call it, will make your character invisible so you can p
 
 To go invisible, open the main menu and choose **Visibility** while in character. Press it again to get back into the last character you were in.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_12.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_12.mp4
 
 --- /Platform ---
 

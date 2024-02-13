@@ -6,13 +6,13 @@
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
 --- Platform: Rift ---
 
 Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
 --- /Platform ---
 
@@ -20,7 +20,7 @@ Flipside Studio's main entry point into its menus is through the main menu, whic
 
 You're presented with the dashboard each time you launch Flipside Studio, and you can recall it at any time from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_10.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_10.mp4
 
 The dashboard provides quick access to the assets you used the last time you were in Flipside Studio, as well as notifications such as multiplayer invites, and a list of your friends who are also online.
 

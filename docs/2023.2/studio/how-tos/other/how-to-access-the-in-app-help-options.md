@@ -10,7 +10,7 @@ Lastly, Flipside Studio features a series of tutorials accessible via the main m
 
 **Step 1.** Press the menu button on either controller and choose **Help** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_1-2_4.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_4.mp4
 
 **Step 2.** Click on any of the help topics in the column on the left to open that topic.
 

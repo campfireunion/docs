@@ -2,7 +2,7 @@
 
 Actor marks in Flipside Studio simulate marks on a stage, which are denoted as a T shape indicating where actors should stand for a given shot or scene.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_7-11_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-11_1.mp4
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 

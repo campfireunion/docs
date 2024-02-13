@@ -4,7 +4,7 @@ Flipside Creator Tools can turn just about any object on a virtual set into a cu
 
 Interactions with props are handled through the **PropElement** component.
 
-![Flipside Creator Tools - Prop element](https://www.flipsidexr.com/files/docs/2023.2/CT_prop-element.png) 
+![Flipside Creator Tools - Prop element](https://www.flipsidexr.com/files/docs/2023.1/CT_prop-element.png) 
 
 The **PropElement** component can be broken down into three types:
 

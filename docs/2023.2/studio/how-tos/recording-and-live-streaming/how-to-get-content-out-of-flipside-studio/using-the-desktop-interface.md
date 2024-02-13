@@ -4,7 +4,7 @@
 
 Flipside Studio’s **Desktop Interface** gives you the ability to view the active camera from the **Camera Switcher** in VR, control cameras from outside of VR, as well as access Flipside Studio's settings on the PC attached to your headset. Use any live streaming or screen capturing software like [OBS Studio](https://obsproject.com/) to stream or capture video of your Flipside Studio content.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_12-4_10.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_12-4_10.mp4
 
 The main window area is your active camera output. Along the bottom are the director controls. On the right are previews for each camera position.
 
@@ -37,7 +37,7 @@ To record video of your Flipside Studio content, use any screen capturing softwa
 
 **Step 1.**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside Studio** from the device dropdown.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_get-content-out-flipside-broadcaster_5.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_5.mp4
 
 Alternatively, you can select any other input source that suits your needs like **Game Capture** or **Window Capture**.
 

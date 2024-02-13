@@ -12,7 +12,7 @@ even automatically triggered animations and sounds.
 
 Sets have a specific scene hierarchy, which looks like this:
 
-![Set hierarchy](https://www.flipsidexr.com/files/docs/2023.2/CT_set-hierarchy.png)
+![Set hierarchy](https://www.flipsidexr.com/files/docs/2023.1/CT_set-hierarchy.png)
 
 This is all that's technically needed for a set to work, but we'll go over several features
 that make it more useful for you.
@@ -34,7 +34,7 @@ You can also grab and interact with any objects on your set that have a **PropEl
 When you're ready to build your set and test it out in Flipside Studio, click the **Build & Publish Set**
 button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Set** button showing how far along you are in uploading and publishing your set.
 
-![Flipside Creator Tools - Build & Publish Set](https://www.flipsidexr.com/files/docs/2023.2/CT_set-upload.png)
+![Flipside Creator Tools - Build & Publish Set](https://www.flipsidexr.com/files/docs/2023.1/CT_set-upload.png)
 
 When that's finished, you can find your set in Flipside Studio under the **Imported Sets** button on the far right of the **Sets** menu categories.
 
@@ -62,7 +62,7 @@ To exclude an object from the teleport area, add a **Nav Mesh Modifier** compone
 in the **Inspector** window and make sure the **Ignore From Build** checkbox is checked. Make sure
 to re-bake the NavMesh changes in order to see the change applied.
 
-![NavMesh modifier](https://www.flipsidexr.com/files/docs/2023.2/CT_nav-mesh-modifier.png)
+![NavMesh modifier](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-modifier.png)
 
 You can read all about Unity's [NavMesh feature here](https://docs.unity3d.com/Manual/NavMesh-BuildingComponents.html).
 
@@ -95,7 +95,7 @@ your sets look to a great degree, but not every lighting setting will import int
 Here are the lighting settings, found on the **Set Info** component on the root set object in your
 scene hierarchy:
 
-![SetInfo component](https://www.flipsidexr.com/files/docs/2023.2/CT_set-info.png)
+![SetInfo component](https://www.flipsidexr.com/files/docs/2023.1/CT_set-info.png)
 
 #### Sky ID
 

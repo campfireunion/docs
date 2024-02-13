@@ -12,7 +12,7 @@ To create stand-ins, go to the **Characters** menu and click **Pose** along the 
 
 A 3-second timer will count down, giving the actors time to strike a pose. A clone of each character will appear frozen in place at the end of the countdown. Move to a different spot to see your stand-ins.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_2-4_1_web-edit.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-4_1_web-edit.mp4
 
 > Note: A stand-in will be created for each user present who is in character at the time. Invisible users will not appear as stand-ins.
 

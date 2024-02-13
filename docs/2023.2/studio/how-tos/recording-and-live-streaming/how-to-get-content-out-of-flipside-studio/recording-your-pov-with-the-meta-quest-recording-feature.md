@@ -16,7 +16,7 @@ To include audio, select the toggle next to **Include Mic Audio**.
 
 >**Note:** A red dot will appear in VR to indicate that recording has started. 
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_meta-quest-recording_1.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_meta-quest-recording_1.mp4
 
 If you’re capturing the playback of a recording made in Flipside Studio, load the recording, position yourself to capture the desired framing, then press **play**.
 
@@ -24,7 +24,7 @@ If you’re capturing the playback of a recording made in Flipside Studio, load 
 
 Then, click on the **stop** button to stop recording.
 
-:gif https://www.flipsidexr.com/files/docs/2023.2/help_meta-quest-recording_2.mp4
+:gif https://www.flipsidexr.com/files/docs/2023.1/help_meta-quest-recording_2.mp4
 
 **Step 5.** To access your recordings,  press the **menu button** on your right controller to pull up **Meta Quest’s universal menu**.
 
