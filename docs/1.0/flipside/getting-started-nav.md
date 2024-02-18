@@ -6,6 +6,7 @@
   * [[Flipside / Getting started / Multiplayer requirements]]
   * [[Flipside / Getting started / Installing Flipside Broadcaster]]
 * [[Flipside / How tos]]
+* [[Flipside / Tokens]]
 * [[Flipside / Concepts]]
 * [[Flipside / References]]
 * [[What's new]]

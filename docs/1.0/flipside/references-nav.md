@@ -2,6 +2,7 @@
 
 * [[Flipside / Getting started]]
 * [[Flipside / How tos]]
+* [[Flipside / Tokens]]
 * [[Flipside / Concepts]]
 * [[Flipside / References]]
   * [[Flipside / References / Controller basics]]

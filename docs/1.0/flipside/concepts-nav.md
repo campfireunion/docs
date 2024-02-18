@@ -2,6 +2,7 @@
 
 * [[Flipside / Getting started]]
 * [[Flipside / How tos]]
+* [[Flipside / Tokens]]
 * [[Flipside / Concepts]]
   * [[Flipside / Concepts / Characters]]
   * [[Flipside / Concepts / Props and sets]]

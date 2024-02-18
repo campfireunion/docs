@@ -14,6 +14,7 @@
   * [[Flipside / How tos / Audio]]
   * [[Flipside / How tos / Collaboration]]
   * [[Flipside / How tos / Other]]
+* [[Flipside / Tokens]]
 * [[Flipside / Concepts]]
 * [[Flipside / References]]
 * [[What's new]]
