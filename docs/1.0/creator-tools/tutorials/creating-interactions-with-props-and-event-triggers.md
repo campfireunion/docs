@@ -22,7 +22,7 @@ Lastly, go to **Flipside Creator Tools > Create Set From Current Scene**. You sh
 
 ![The most basic set](https://www.flipsidexr.com/files/docs/tutorials/the-most-basic-set.png)
 
-For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside Studio.
+For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside.
 
 ## Creating the flashlight
 
@@ -72,7 +72,7 @@ If everything is setup correctly, you should be able to press play in Unity and 
 
 <!-- ![Flashlight prop](https://www.flipsidexr.com/files/docs/tutorials/flashlight-prop.png) -->
 
-To build your set for use in Flipside Studio, go to **Flipside Creator Tools > Open Creator Tools** then click on the **Build Set Bundle** button. Your flashlight should work just the same in Flipside Studio as it does in the Unity editor.
+To build your set for use in Flipside, go to **Flipside Creator Tools > Open Creator Tools** then click on the **Build Set Bundle** button. Your flashlight should work just the same in Flipside as it does in the Unity editor.
 
 ---
 

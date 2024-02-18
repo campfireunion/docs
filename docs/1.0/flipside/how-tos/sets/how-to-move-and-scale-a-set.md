@@ -26,7 +26,7 @@ For actors while in character, the ways to move around are either to walk around
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_3-4_3.mp4
 
-**Step 6.** Grab a camera from the main menu and try holding the camera with one hand and moving the set with the other. This is a powerful way to control camera movements as a camera operator in Flipside Studio.
+**Step 6.** Grab a camera from the main menu and try holding the camera with one hand and moving the set with the other. This is a powerful way to control camera movements as a camera operator in Flipside.
 
 > Tip: To quickly travel larger distances on a set, teleporting is often the quickest way, but next to that is shrinking the set way down then pulling the part of the set you're trying to get to towards you.
 

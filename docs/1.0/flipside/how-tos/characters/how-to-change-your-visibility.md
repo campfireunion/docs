@@ -1,6 +1,6 @@
 # How to change your visibility
 
-Flipside Studio lets you change your visibility so you can switch between acting as a character or performing various other roles on set such as being a director or camera operator.
+Flipside lets you change your visibility so you can switch between acting as a character or performing various other roles on set such as being a director or camera operator.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_12.mp4
 
@@ -14,4 +14,4 @@ Flipside Studio lets you change your visibility so you can switch between acting
 
 ---
 
-**Next:** [[:How to use Ready Player Me avatars in Flipside Studio]]
+**Next:** [[:How to use Ready Player Me avatars in Flipside]]

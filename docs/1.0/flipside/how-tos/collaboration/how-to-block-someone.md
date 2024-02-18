@@ -1,6 +1,6 @@
 # How to block someone
 
-In case users exhibit unwanted behaviour, here's how you can block them in Flipside Studio.
+In case users exhibit unwanted behaviour, here's how you can block them in Flipside.
 
 **Step 1.** Press the menu button on either controller and choose **Multiplayer** from the main menu.
 
@@ -10,7 +10,7 @@ In case users exhibit unwanted behaviour, here's how you can block them in Flips
 
 **Step 4.** Select **Block** from the dropdown list.
 
-![Flipside Studio - Block user](https://www.flipsidexr.com/files/docs/2023.1/5-6_block.png)
+![Flipside - Block user](https://www.flipsidexr.com/files/docs/2023.1/5-6_block.png)
 
 ---
 

@@ -14,4 +14,4 @@
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

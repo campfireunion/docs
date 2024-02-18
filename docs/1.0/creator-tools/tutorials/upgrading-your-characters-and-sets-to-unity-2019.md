@@ -1,6 +1,6 @@
 # Upgrading your characters and sets to Unity 2019
 
-With Flipside Studio making the jump to Unity 2019, that has an impact on a lot of characters and sets that our users have made. The good news is that most characters and sets will still work without updating, but there are a few areas where things can go wrong.
+With Flipside making the jump to Unity 2019, that has an impact on a lot of characters and sets that our users have made. The good news is that most characters and sets will still work without updating, but there are a few areas where things can go wrong.
 
 ## Backwards compatibility
 
@@ -15,7 +15,7 @@ We worked hard to make the transition to Unity 2019 as seamless as possible, inc
 
 The first thing to do whenever upgrading Unity is to make a backup of your project. If anything goes wrong, you can always open your backup version in Unity 2017 and nothing will be lost.
 
-Unity 2017 will also continue to be the required version for our stable release of Flipside Studio for a little while, so we recommend keeping both versions of Unity installed.
+Unity 2017 will also continue to be the required version for our stable release of Flipside for a little while, so we recommend keeping both versions of Unity installed.
 
 To back up your project, make sure Unity is closed and duplicate your root project folder (the parent folder of Assets and ProjectSettings).
 
@@ -25,7 +25,7 @@ We recommend naming the backup using the form `ProjectName-2017` so you can see 
 
 Now you should be ready to install Unity 2019 and the latest Flipside Creator Tools, which you can find on our [Flipside Creator Tools download page](https://www.flipsidexr.com/docs/2021.1/creator-tools).
 
-Be sure to install the version of Unity listed on that page, or you will run into problems with your character and set bundles in Flipside Studio.
+Be sure to install the version of Unity listed on that page, or you will run into problems with your character and set bundles in Flipside.
 
 To upgrade the Flipside Creator Tools, open your project in Unity 2019 and wait for it to finish importing. This may take a few minutes or more, depending on how many assets your project has. When the import has completed, go to _Assets > Import Package > Custom Package_ in the Unity application menu. Select the new version of the Flipside Creator Tools from your downloads, and overwrite any existing files when asked.
 
@@ -37,7 +37,7 @@ Navigate to _Window > Package Manager_ and install either the **Oculus Desktop**
 
 For the most part, characters and sets don't need anything changed in order to work in Unity 2019, they just need to be rebuilt in that version of Unity and uploaded to your Flipside Dashboard. You'll notice there's a new bundle file option labelled **Beta - Windows - Unity 2019**. This is where you'll need to upload your rebuilt characters and sets.
 
-Notice too that there's still a **Windows - Unity 2017** option, so that your previous Unity 2017 version can still be used by Flipside Studio's stable release and can still be updated as needed. As Flipside Studio adds support for additional platforms such as Android, you'll see additional options appear here at that time, too.
+Notice too that there's still a **Windows - Unity 2017** option, so that your previous Unity 2017 version can still be used by Flipside's stable release and can still be updated as needed. As Flipside adds support for additional platforms such as Android, you'll see additional options appear here at that time, too.
 
 If you want to try the new body physics on your characters, take a look at our [Generating colliders on characters](https://www.flipsidexr.com/docs/2021.1/creator-tools/generating-colliders-on-characters) page in the Flipside user manual.
 

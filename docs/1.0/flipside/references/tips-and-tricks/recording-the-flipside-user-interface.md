@@ -16,4 +16,4 @@ If you want to record the Flipside user interface (ie. cameras, preview monitors
 
 ---
 
-**Back:** [[Studio / References]]
+**Back:** [[Flipside / References]]

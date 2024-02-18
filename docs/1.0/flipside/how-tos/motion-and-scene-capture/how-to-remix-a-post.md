@@ -18,4 +18,4 @@ You can put your spin on someone else's content by remixing a post.
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

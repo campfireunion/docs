@@ -1,12 +1,12 @@
-# Flipside Studio
+# Flipside
 
-* [[Studio / Getting started]]
-  * [[Studio / Getting started / Installing Flipside Studio]]
-  * [[Studio / Getting started / Hardware setup]]
-  * [[Studio / Getting started / Multiplayer requirements]]
-  * [[Studio / Getting started / Installing Flipside Broadcaster]]
-* [[Studio / How tos]]
-* [[Studio / Concepts]]
-* [[Studio / References]]
+* [[Flipside / Getting started]]
+  * [[Flipside / Getting started / Installing Flipside]]
+  * [[Flipside / Getting started / Hardware setup]]
+  * [[Flipside / Getting started / Multiplayer requirements]]
+  * [[Flipside / Getting started / Installing Flipside Broadcaster]]
+* [[Flipside / How tos]]
+* [[Flipside / Concepts]]
+* [[Flipside / References]]
 * [[What's new]]
 * [[Getting help]]

@@ -1,6 +1,6 @@
 # How tos
 
-The following pages are meant to help guide you through various aspects of the Flipside Studio software, including making video and motion capture recordings, dressing your virtual sets, and more.
+The following pages are meant to help guide you through various aspects of the Flipside software, including making video and motion capture recordings, dressing your virtual sets, and more.
 
 ## Watching content
 **Watch the immersive content creators share and subscribe to your favorite channels.**
@@ -36,22 +36,22 @@ The following pages are meant to help guide you through various aspects of the F
 ## Recording and live streaming
 **Get your content out of VR to share with your 2D audience.**
 
-[[> Recording and live streaming / How to take photos in Flipside Studio]]
+[[> Recording and live streaming / How to take photos in Flipside]]
 
-[[> Recording and live streaming / How to record video in Flipside Studio]]
+[[> Recording and live streaming / How to record video in Flipside]]
 
-[[> Recording and live streaming / How to live stream from Flipside Studio]]
+[[> Recording and live streaming / How to live stream from Flipside]]
 
-[[> Recording and live streaming / How to control OBS from Flipside Studio]]
+[[> Recording and live streaming / How to control OBS from Flipside]]
 
 [[> Recording and live streaming / How to find your photos and videos]]
 
-[[> Recording and live streaming / How to get content out of Flipside Studio]]
+[[> Recording and live streaming / How to get content out of Flipside]]
 
 ## Cameras
-**Flipside Studio comes with a camera system that lets your craft content for flat screens.**
+**Flipside comes with a camera system that lets your craft content for flat screens.**
 
-[[> Cameras / How to use cameras in Flipside Studio]]
+[[> Cameras / How to use cameras in Flipside]]
 
 [[> Cameras / How to set up multiple cameras]]
 
@@ -85,7 +85,7 @@ The following pages are meant to help guide you through various aspects of the F
 [[> Show tools / AI Script Creator]]
 
 ## Characters
-**Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.**
+**Choose the right character for your content.  Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside.**
 
 [[> Characters / How to embody characters]]
 
@@ -93,11 +93,11 @@ The following pages are meant to help guide you through various aspects of the F
 
 [[> Characters / How to use puppet mode]]
 
-<!-- [[> Characters / How to use your Meta Avatar in Flipside Studio]] -->
+<!-- [[> Characters / How to use your Meta Avatar in Flipside]] -->
 
 [[> Characters / How to change your visibility]]
 
-[[> Characters / How to use Ready Player Me avatars in Flipside Studio]]
+[[> Characters / How to use Ready Player Me avatars in Flipside]]
 
 [[> Characters / How to create and import your own characters]]
 

@@ -1,6 +1,6 @@
 # How to use the spotlight
 
-Flipside Studio provides a built-in spotlight prop so you can add real-time lighting to your sets.
+Flipside provides a built-in spotlight prop so you can add real-time lighting to your sets.
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 
@@ -18,4 +18,4 @@ Note that there are limits to how many real-time lights can affect surfaces in V
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

@@ -2,7 +2,7 @@
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/2021.1/creator-tools) to import your own sets into Flipside.
 
-- [Bring your own sets into Flipside Studio](#bring-your-own-sets-into-flipside-studio)
+- [Bring your own sets into Flipside](#bring-your-own-sets-into-flipside-studio)
 - [Set optimization - Baked lighting](#set-optimization-baked-lighting)
 
 ## Bring your own sets into Flipside

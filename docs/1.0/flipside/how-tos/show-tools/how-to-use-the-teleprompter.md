@@ -1,6 +1,6 @@
 # How to use the teleprompter
 
-Flipside Studio features a teleprompter for actors to be able to refer to scripts during production.
+Flipside features a teleprompter for actors to be able to refer to scripts during production.
 
 > **Note:** To customize your scripts, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Scripts** link for the project you wish to add them to. Scripts belong to a project so they can be shared with the whole project team.
 

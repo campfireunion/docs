@@ -12,7 +12,7 @@
 ## Prop kits
 
 - Avoid putting props in the prop kit scene (e.g., as children of the prop kit objects). Instead, make each prop a prefabs by dragging it into the Project window.
-- Adjust your props so that their scale in the Unity editor is the scale you want them to be in Flipside Studio when first added to a set.
+- Adjust your props so that their scale in the Unity editor is the scale you want them to be in Flipside when first added to a set.
 
 ## Sets
 

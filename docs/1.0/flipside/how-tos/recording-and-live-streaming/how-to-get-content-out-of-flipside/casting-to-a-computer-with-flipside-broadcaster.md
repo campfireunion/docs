@@ -1,6 +1,6 @@
 # Casting to a computer with Flipside Broadcaster
 
-To stream or record video of your Flipside Studio content, you need to get your content onto a computer.  Once your content is on your computer you can stream or record video of it with any live streaming or screen capturing software, like OBS Studio.
+To stream or record video of your Flipside content, you need to get your content onto a computer.  Once your content is on your computer you can stream or record video of it with any live streaming or screen capturing software, like OBS Studio.
 
 >**Note**: Desktop users have two options for this; using the Desktop Interface on the computer attached to your headset or casting to a computer that isn’t attached to your headset with Flipside Broadcaster.  
 
@@ -18,7 +18,7 @@ For a detailed overview of how to install Flipside Broadcaster including hardwar
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_2.mp4
 
-**Step 3.** Now you’re ready to start casting your Flipside Studio content to your PC. 
+**Step 3.** Now you’re ready to start casting your Flipside content to your PC. 
 
 Click the **start cast** button on the **main menu** or **Camera Switcher** and note the **room code** that pops up.
 
@@ -28,13 +28,13 @@ Click the **start cast** button on the **main menu** or **Camera Switcher** and 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_4.mp4
 
-Your Flipside Studio content is now casting to your computer. Use the Camera Switcher to craft exactly what you want your audience to see.
+Your Flipside content is now casting to your computer. Use the Camera Switcher to craft exactly what you want your audience to see.
 
 ## Record or live stream your content
 
-To live stream or  record video of your Flipside Studio content, use any screen capturing software like  [OBS Studio](https://obsproject.com/).
+To live stream or  record video of your Flipside content, use any screen capturing software like  [OBS Studio](https://obsproject.com/).
 
-**Step 1.**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside Studio** from the device dropdown.
+**Step 1.**  In OBS Studio, add a **Video Capture Device** as a source. Then, select **Flipside** from the device dropdown.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_get-content-out-flipside-broadcaster_5.mp4
 
@@ -53,7 +53,7 @@ ___
 
 --- Platform: Rift ---
 
-**Back:** [[Studio / How tos / Recording and live streaming]]
+**Back:** [[Flipside / How tos / Recording and live streaming]]
 
 --- /Platform ---
 

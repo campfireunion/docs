@@ -16,5 +16,5 @@ You can edit the details of a post at anytime.
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]
 

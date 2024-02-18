@@ -1,4 +1,4 @@
-# How to get content out of Flipside Studio
+# How to get content out of Flipside
 
 --- Platform: Quest ---
 
@@ -18,4 +18,4 @@
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

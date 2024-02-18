@@ -1,18 +1,18 @@
-# How to control OBS from Flipside Studio
+# How to control OBS from Flipside
 
-Here's how to control OBS from in VR using Flipside Studio.
+Here's how to control OBS from in VR using Flipside.
 
 --- Platform: Quest ---
 
-> **Please Note:** Controlling OBS from Flipside Studio is only available in the PC versions of Flipside Studio, which you can use by connecting your Quest to a PC using the Oculus Link cable or Air Link.
+> **Please Note:** Controlling OBS from Flipside is only available in the PC versions of Flipside, which you can use by connecting your Quest to a PC using the Oculus Link cable or Air Link.
 
 **Step 1.** Install [OBS Studio](https://obsproject.com/).
 
 **Step 2.** Connect your Quest to your PC using an Oculus Link cable or Air Link.
 
-**Step 3.** Launch OBS Studio and Flipside Studio on your PC.
+**Step 3.** Launch OBS Studio and Flipside on your PC.
 
-**Step 4.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
+**Step 4.** In Flipside, press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
 **Step 5.** On the camera switcher, click **Connect** to connect to OBS.
 
@@ -24,9 +24,9 @@ Here's how to control OBS from in VR using Flipside Studio.
 
 **Step 1.** Install [OBS Studio](https://obsproject.com/).
 
-**Step 2.** Launch OBS Studio and Flipside Studio.
+**Step 2.** Launch OBS Studio and Flipside.
 
-**Step 3.** In Flipside Studio, press the menu button on either controller and choose **Camera Switcher** from the main menu.
+**Step 3.** In Flipside, press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
 **Step 4.** On the camera switcher, click **Connect** to connect to OBS.
 

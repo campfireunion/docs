@@ -1,8 +1,8 @@
 # Projects
 
-Sharing resources and working collaboratively in Flipside Studio is done through the use of shared projects. Everything you record in Flipside Studio is added to the currently-opened project, which you can use to organize your solo creations or share with others by adding them as project team members.
+Sharing resources and working collaboratively in Flipside is done through the use of shared projects. Everything you record in Flipside is added to the currently-opened project, which you can use to organize your solo creations or share with others by adding them as project team members.
 
-> **Note:** For users coming from an older version of Flipside Studio that didn't have projects, all of your existing recordings will automatically be moved into a default project for you.
+> **Note:** For users coming from an older version of Flipside that didn't have projects, all of your existing recordings will automatically be moved into a default project for you.
 
 ## Project team
 
@@ -16,7 +16,7 @@ Synchronous workflows occur when multiple project team members are connected ove
 
 Asynchronous workflows occur when project team members are not connected but are working on the same project separately. This can occur both in real-time or spread out over time, but the key benefit is the flexibility to work remotely and on each project team member's availability.
 
-For example, if team members A and B are in Flipside Studio and member A makes a new recording, that recording will appear in member B's recordings for that project as soon as the recording has finished syncing to the cloud, or whenever they launch Flipside Studio again.
+For example, if team members A and B are in Flipside and member A makes a new recording, that recording will appear in member B's recordings for that project as soon as the recording has finished syncing to the cloud, or whenever they launch Flipside again.
 
 This enables real-time collaboration between project members even when they're not connected over multiplayer, so member A can make recordings while member B renders video of them as they come in.
 

@@ -1,7 +1,7 @@
 # CameraElement
 
 Unity cameras and Cinemachine virtual cameras will automatically be converted to camera positions in the
-Flipside Studio camera switcher, making them a powerful way to setup custom shots or camera movements.
+Flipside camera switcher, making them a powerful way to setup custom shots or camera movements.
 
 To preview your camera positions, press play in Unity then press the number keys (1, 2, 3, etc.) to switch
 between camera positions. Press 0 to switch back to mirroring what you're seeing in VR.

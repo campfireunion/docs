@@ -2,9 +2,9 @@
 
 > **Note:** Post-processing effects are a desktop-only feature and are not supported on the Quest.
 
-Flipside Studio includes a few post-processing effects that can be applied to the second-screen output on the desktop.
+Flipside includes a few post-processing effects that can be applied to the second-screen output on the desktop.
 
-**Step 1.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
+**Step 1.** Take your headset off and look at Flipside's user switcher interface on your desktop.
 
 **Step 2.** Click on the settings icon along the bottom of the screen. It looks like a little gear icon.
 
@@ -30,4 +30,4 @@ You'll also want to pay attention to whether you're experiencing frame rate drop
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

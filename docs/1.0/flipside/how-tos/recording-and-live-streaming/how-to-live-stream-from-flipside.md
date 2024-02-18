@@ -1,21 +1,21 @@
-# How to record video in Flipside Studio
+# How to live stream from Flipside
 
-Here's how to record video in Flipside Studio.
+Here are the steps to live stream from Flipside.
 
 ## Requirements
 
-Recording video requires a PC with the following software installed. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [recording steps](#recording-videos).
+Live streaming requires a PC with the following software installed and configured to stream to your platform(s) of choice. Follow the steps in the one-time setup for each app and from then on you can skip straight to the [live streaming steps](#live-streaming).
 
 - [Flipside Broadcaster](/docs/broadcaster)
 - [OBS Studio](https://obsproject.com/)
 
-> **Note:** If you're using the desktop version of Flipside Studio, you can skip using Flipside Broadcaster and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
+> **Note:** If you're using the desktop version of Flipside, you can skip using Flipside Broadcaster and capture Flipside directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
 
 ## One-time setup
 
 ### Flipside Broadcaster setup
 
->**Note:** You only need to set up Flipside Broadcaster once.  If you've done it already, skip to the **Recording videos** section.
+>**Note:** You only need to set up Flipside Broadcaster once.  If you've done it already, skip to the **Live streaming** section.
 
 **Step 1.** Install Flipside Broadcaster on your PC.
 
@@ -31,10 +31,11 @@ Recording video requires a PC with the following software installed. Follow the 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
 
-
 ### OBS Studio setup
 
->**Note:** You only need to set up OBS Studio once.  If you've done it already, skip to the **Recording videos** section.
+
+>**Note:** The **cast** button can also be found on the **main menu**.
+>**Note:** You only need to set up Flipside Broadcaster once.  If you've done it already, skip to the **Live streaming** section.
 
 **Step 1.** Install OBS Studio on your PC.
 
@@ -46,11 +47,11 @@ Recording video requires a PC with the following software installed. Follow the 
 
 **Step 4.** Adjust the volume of the **Desktop Audio** source in the **Audio Mixer** section to ensure voices and audio coming from Flipside Broadcaster will be heard in OBS.
 
-## Recording videos
+## Live streaming
 
-After completing the one-time steps above, here are the steps you can use to record video from Flipside Studio.
+After completing the one-time steps above, here are the steps you can use to start a new live stream from Flipside.
 
-> **Note:** If you're using the desktop version of Flipside Studio, you can skip to **Step 4** and capture Flipside Studio directly in OBS, unless you want to capture on a separate machine than the one you're using for VR.
+> **Note:** If you're using the desktop version of Flipside, you can skip to **Step 4.** and capture Flipside directly in OBS, unless you want to stream from a separate machine than the one you're using for VR.
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
@@ -70,10 +71,10 @@ Close the settings window then enter the room code you were given in step 2 and 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_7.mp4
 
-**Step 4.** Launch OBS Studio on your PC and click **Start Recording** to begin recording video of your Flipside Broadcaster output. Cut cameras as you would normally to craft your video output.
+**Step 4.** Launch OBS Studio on your PC and click **Start Streaming** to begin streaming your Flipside Broadcaster output to the world.
 
-**Step 5.** When you're done recording, click **Stop Recording** in OBS and click **Stop Cast** on the camera switcher in Flipside Studio to stop broadcasting to Flipside Broadcaster.
+**Step 5.** When you're done live streaming, click **Stop Cast** on the camera switcher in Flipside to stop broadcasting to Flipside Broadcaster and click **Stop Streaming** in OBS to stop streaming to the world.
 
 ---
 
-**Next:** [[:How to live stream from Flipside Studio]]
+**Next:** [[:How to control OBS from Flipside]]

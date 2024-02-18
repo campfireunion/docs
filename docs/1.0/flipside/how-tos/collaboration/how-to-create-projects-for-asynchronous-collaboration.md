@@ -1,6 +1,6 @@
 # How to create projects for asynchronous collaboration
 
-Projects in Flipside Studio are a way of sharing assets including recordings, characters, sets, and more with a team of users so you can more efficiently work remotely and asynchronously.
+Projects in Flipside are a way of sharing assets including recordings, characters, sets, and more with a team of users so you can more efficiently work remotely and asynchronously.
 
 **Step 1.** Press the menu button on either controller and choose **All Projects** from the main menu.
 

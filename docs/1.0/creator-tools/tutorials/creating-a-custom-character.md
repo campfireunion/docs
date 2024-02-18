@@ -13,7 +13,7 @@ Character models must be exported in the FBX file format.
 
 ## Importing your character
 
-> **Note**: For a full video walk through, visit [Bring Your Own Characters into Flipside Studio](https://youtu.be/LwEqmwfnu9U).
+> **Note**: For a full video walk through, visit [Bring Your Own Characters into Flipside](https://youtu.be/LwEqmwfnu9U).
 
 1\. Import your character's 3D model by dragging the FBX file into your Unity project's **Project** pane.
 
@@ -29,21 +29,21 @@ Character models must be exported in the FBX file format.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_2.mp4
 
-6\. Select the root object in Unity's **Hierarchy** pane, then look at the **Inspector** pane and find the **AvatarModelReferences** component. This is where you can configure most aspects of your character, from its name and thumbnail shown in Flipside Studio to its facial expressions and more.
+6\. Select the root object in Unity's **Hierarchy** pane, then look at the **Inspector** pane and find the **AvatarModelReferences** component. This is where you can configure most aspects of your character, from its name and thumbnail shown in Flipside to its facial expressions and more.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_3.mp4
 
 > **Note**: There are many configuration options, which you can find in other [[creator tools / tutorials]] on things like [[: mapping facial expressions]], [[: changing the scale of a character]], or [[: adding movement to hair, cloth, and tails]].
 
-At this point, you should have a basic working character that can be published to Flipside Studio or previewed in the Unity editor. To test it out, try pressing play and looking at your character in VR. See the section below on [testing your character before publishing](#testing-your-character-before-publishing) for info on inputs options for testing your character.
+At this point, you should have a basic working character that can be published to Flipside or previewed in the Unity editor. To test it out, try pressing play and looking at your character in VR. See the section below on [testing your character before publishing](#testing-your-character-before-publishing) for info on inputs options for testing your character.
 
 # Building and publishing your character
 
-When you're ready to build your character and test it out in Flipside Studio, click the **Build & Publish Character** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Character** button showing how far along you are in uploading and publishing your character.
+When you're ready to build your character and test it out in Flipside, click the **Build & Publish Character** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Character** button showing how far along you are in uploading and publishing your character.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-7_4.mp4
 
-When that's finished, you will find your character in Flipside Studio under the **Imported Characters** button on the far right of the **Characters** menu categories.
+When that's finished, you will find your character in Flipside under the **Imported Characters** button on the far right of the **Characters** menu categories.
 
 ## Testing your character before publishing
 

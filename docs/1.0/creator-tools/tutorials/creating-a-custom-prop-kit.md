@@ -1,10 +1,10 @@
 # Creating a custom prop kit
 
-Once you have the [Flipside Creator Tools](/docs/2023.2/creator-tools) installed and set up, here are the steps to create a custom prop kit you can import into Flipside Studio.
+Once you have the [Flipside Creator Tools](/docs/2023.2/creator-tools) installed and set up, here are the steps to create a custom prop kit you can import into Flipside.
 
 ## Overview
 
-Prop kits start as scenes in the Unity game engine. A prop kit is a collection of related props that are bundled together via this Unity scene, but can be used individually in Flipside Studio.
+Prop kits start as scenes in the Unity game engine. A prop kit is a collection of related props that are bundled together via this Unity scene, but can be used individually in Flipside.
 
 ## Structure of a prop kit
 
@@ -44,13 +44,13 @@ You now have the most minimal prop kit with one prop included in it.
 
 ## Building and publishing your prop kit
 
-When you're ready to build your prop kit and test it out in Flipside Studio, open the Flipside Creator Tools window by going to **Flipside Creator Tools > Open Creator Tools**.
+When you're ready to build your prop kit and test it out in Flipside, open the Flipside Creator Tools window by going to **Flipside Creator Tools > Open Creator Tools**.
 
 Click the **Build & Publish Prop Kit** button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Prop Kit** button showing how far along you are in uploading and publishing your prop kit.
 
 ![Flipside Creator Tools - Build & Publish Prop Kit](https://www.flipsidexr.com/files/docs/2023.1/CT_prop-kit-window.png)
 
-When that's finished, you can find your cube prop in Flipside Studio under the **Imported** category of the **Props** menu.
+When that's finished, you can find your cube prop in Flipside under the **Imported** category of the **Props** menu.
 
 ---
 

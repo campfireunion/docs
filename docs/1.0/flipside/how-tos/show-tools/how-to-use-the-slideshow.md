@@ -1,6 +1,6 @@
 # How to use the slideshow
 
-Slideshows provide a way to bring a sequence of photos and videos into Flipside Studio that can be displayed anywhere in a set.
+Slideshows provide a way to bring a sequence of photos and videos into Flipside that can be displayed anywhere in a set.
 
 > **Note:** To customize your list of slides, [log into your creator account on flipsidexr.com](flipsidexr.com/user) then go to **Projects** and click on the **Slides** link for the project you wish to add them to. Slides belong to a project so they can be shared with the whole project team.
 

@@ -1,10 +1,10 @@
 # How to export audio data
 
-Here's how you can export audio data from Flipside Studio:
+Here's how you can export audio data from Flipside:
 
 **Step 1.** Select and load the recording in the **Recordings** menu for the audio you want to export.
 
-**Step 2.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
+**Step 2.** Take your headset off and look at Flipside's user switcher interface on your desktop.
 
 **Step 3.** Click on the button with the recording's name (along the bottom of the desktop switcher interface). This will bring up the **Take Editor** menu.
 
@@ -16,4 +16,4 @@ Next, let's see [[: how to use Mixed Reality mode]].
 
 ---
 
-Back: [[Studio / How tos]]
+Back: [[Flipside / How tos]]

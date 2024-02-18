@@ -2,7 +2,7 @@
 
 --- Platform: Quest ---
 
-Flipside Studio's camera system has the following options.
+Flipside's camera system has the following options.
 
 ## Camera options
 
@@ -38,7 +38,7 @@ Features:
 
 --- Platform: Rift ---
 
-Flipside Studio's camera system has the following options.
+Flipside's camera system has the following options.
 
 ## Camera options
 

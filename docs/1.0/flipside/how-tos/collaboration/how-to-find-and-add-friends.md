@@ -1,6 +1,6 @@
 # How to find and add friends
 
-Here's how to make friends in Flipside Studio.
+Here's how to make friends in Flipside.
 
 ## Sending a friend request
 
@@ -22,7 +22,7 @@ Here's how to make friends in Flipside Studio.
 
 ## Accepting a friend request
 
-**Step 1.** Watch for an email or an in-app notification in Flipside Studio. The in-app notification will appear on the **Dashboard** menu.
+**Step 1.** Watch for an email or an in-app notification in Flipside. The in-app notification will appear on the **Dashboard** menu.
 
 **Step 2.** Follow the email link or click on the notification in the dashboard.
 

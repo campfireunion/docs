@@ -4,13 +4,13 @@
 
 --- Platform: Quest ---
 
-Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
+Flipside's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
 --- Platform: Rift ---
 
-Flipside Studio's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
+Flipside's main entry point into its menus is through the main menu, which can be opened and closed by pressing the **A or X button** on your controller.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_1.mp4
 
@@ -18,11 +18,11 @@ Flipside Studio's main entry point into its menus is through the main menu, whic
 
 ## Dashboard
 
-You're presented with the dashboard each time you launch Flipside Studio, and you can recall it at any time from the main menu.
+You're presented with the dashboard each time you launch Flipside, and you can recall it at any time from the main menu.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_1-2_10.mp4
 
-The dashboard provides quick access to the assets you used the last time you were in Flipside Studio, as well as notifications such as multiplayer invites, and a list of your friends who are also online.
+The dashboard provides quick access to the assets you used the last time you were in Flipside, as well as notifications such as multiplayer invites, and a list of your friends who are also online.
 
 The dashboard includes the following sections:
 
@@ -39,9 +39,9 @@ The dashboard includes the following sections:
 
 ## Panels
 
-Each submenu in Flipside Studio is implemented as a floating panel.
+Each submenu in Flipside is implemented as a floating panel.
 
-These panels give you access to all aspects of Flipside Studio, such as accessing your motion capture recordings, projects, characters, and more.
+These panels give you access to all aspects of Flipside, such as accessing your motion capture recordings, projects, characters, and more.
 
 Each panel is broken down into the following sections, from top to bottom:
 

@@ -28,4 +28,4 @@ Your script will take a few moments to generate.  Once ready, it will automatica
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

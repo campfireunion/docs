@@ -109,7 +109,7 @@ you will want to try to use mostly primitive collider types and try to limit the
 #### Step 5. Save and test
 
 Once all the colliders are setup correctly, build your character and upload it via your [Flipside dashboard](/characters).
-When the character is imported into Flipside Studio, the physical body will be setup so you can interact with the environment.
+When the character is imported into Flipside, the physical body will be setup so you can interact with the environment.
 If you load an old character or remove the **GenerateColliders** script from the character, it will default back to the old
 system and your limbs will pass through physical objects.
 

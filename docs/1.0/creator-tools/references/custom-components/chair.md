@@ -1,6 +1,6 @@
 # Chair
 
-The Chair component enables you to define places in a set where actors can sit. A chair acts as a teleport target so that the Flipside Studio teleporter will lock onto it and when an actor teleports into it, their character will appear in a sitting position.
+The Chair component enables you to define places in a set where actors can sit. A chair acts as a teleport target so that the Flipside teleporter will lock onto it and when an actor teleports into it, their character will appear in a sitting position.
 
 When you add a Chair component to an object in the scene, it will define three transforms that you can use to customize and fine-tune the sitting position:
 

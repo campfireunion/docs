@@ -20,5 +20,5 @@ To go invisible, open the main menu and choose **Visibility** while in character
 
 ---
 
-**Back:** [[Studio / References]]
+**Back:** [[Flipside / References]]
 

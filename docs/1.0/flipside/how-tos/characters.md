@@ -1,6 +1,6 @@
 # Characters
 
-Choose the right character for your content. Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside Studio.
+Choose the right character for your content. Select from our preloaded characters, use the Ready Player Me avatar creator, or make and import your own to use in Flipside.
 
 [[> How to embody characters]]
 
@@ -8,11 +8,11 @@ Choose the right character for your content. Select from our preloaded character
 
 [[> How to use the puppet]]
 
-<!-- [[> How to use your Meta Avatar in Flipside Studio]] -->
+<!-- [[> How to use your Meta Avatar in Flipside]] -->
 
 [[> How to change your visibility]]
 
-[[> How to use Ready Player Me avatars in Flipside Studio]]
+[[> How to use Ready Player Me avatars in Flipside]]
 
 [[> How to create and import your own characters]]
 

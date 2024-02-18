@@ -1,6 +1,6 @@
 # Settings
 
-Flipside Studio supports the following settings areas:
+Flipside supports the following settings areas:
 
 * [[> General Settings]]
 * [[> Microphone settings]]

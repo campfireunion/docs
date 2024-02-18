@@ -1,6 +1,6 @@
 # Take editor
 
-> Note: Exporting data is a Flipside Studio Pro feature. For more information, visit our [pricing page](/pricing).
+> Note: Exporting data is a Flipside Pro feature. For more information, visit our [pricing page](/pricing).
 
 The take editor lets you see the recorded parts for a take and export data. The take editor will gain more editing capabilities in future releases.
 

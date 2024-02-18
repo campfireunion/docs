@@ -16,7 +16,7 @@ A 3-second timer will count down, giving the actors time to strike a pose. A clo
 
 > Note: A stand-in will be created for each user present who is in character at the time. Invisible users will not appear as stand-ins.
 
-To erase all of the stand-ins, press the **Clear** button that appears under **Pose** when stand-ins are present. Flipside Studio will ask you to confirm that you want to erase them before doing so.
+To erase all of the stand-ins, press the **Clear** button that appears under **Pose** when stand-ins are present. Flipside will ask you to confirm that you want to erase them before doing so.
 
 You can also go into the Props menu and move or remove individual stand-ins just like ordinary props.
 
@@ -24,4 +24,4 @@ To jump into position on set, point your teleporter at a stand-in and press the 
 
 ---
 
-**Next:** [[Studio / References / Creator profile ]]
+**Next:** [[Flipside / References / Creator profile ]]

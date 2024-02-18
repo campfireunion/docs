@@ -20,9 +20,9 @@ If they aren't on the project team, click on the **Friends** tab to find the use
 
 **Step 3.** Wait for your friends to join your multiplayer session.
 
-They will receive a notification in the Flipside Studio dashboard as well as via email if they're not currently online.
+They will receive a notification in the Flipside dashboard as well as via email if they're not currently online.
 
-When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside Studio automatically records every actor who [hasn't made themselves invisible](/docs/2023.2/studio/how-tos/characters/how-to-change-your-visibility).
+When your friend pops into your session, follow the steps on [[:how to make a motion capture recording]] to continue from here. Flipside automatically records every actor who [hasn't made themselves invisible](/docs/2023.2/studio/how-tos/characters/how-to-change-your-visibility).
 
 ---
 

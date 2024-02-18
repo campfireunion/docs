@@ -10,9 +10,9 @@ Most of the Flipside Creator Tools [[creator tools / references / custom compone
 
 To trigger something connected to an event, drag that component into the event in Unity's **Inspector** window, then select the method to call on that component when the event occurs.
 
-## Interacting with Flipside Studio
+## Interacting with Flipside
 
-We also include the ability to interact with some of the internal Flipside Studio features through the **FlipsideActions** component. This lets you trigger camera moves, change sets or skies, control the slideshow and more, through any Unity event in your custom sets.
+We also include the ability to interact with some of the internal Flipside features through the **FlipsideActions** component. This lets you trigger camera moves, change sets or skies, control the slideshow and more, through any Unity event in your custom sets.
 
 ---
 

@@ -1,6 +1,6 @@
 # Microphone settings
 
-You can find the microphone settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **Microphone** tab.
+You can find the microphone settings by clicking on the gear icon on the [[Flipside / references / desktop interface]] and clicking on the **Microphone** tab.
 
 This is what the microphone settings looks like:
 
@@ -8,7 +8,7 @@ This is what the microphone settings looks like:
 
 Microphone settings include:
 
-* **Microphone Input Device** - Lets you choose which microphone input device Flipside Studio is using.
+* **Microphone Input Device** - Lets you choose which microphone input device Flipside is using.
 * **Lip-Sync Gain** - A volume multiplier to apply to the microphone input before sending it for lip-sync analysis.
 * **Lip-Sync Noise Gate** - Eliminates background noise below a certain threshold to prevent external noises from affecting the lip-syncing.
 * **Compression** - Whether compression is enabled on the voice input. If enabled, compression can be applied to the lip-sync, recorded voice, or both.

@@ -8,7 +8,7 @@ The desktop mirror is a feature that mirrors what's shown on your desktop monito
 
 The desktop mirror requires a PC with a dedicated GPU and can't support PCs with integrated graphics. For this reason, the feature is disabled by default and needs to be manually enabled before you can use it.
 
-**Step 1.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
+**Step 1.** Take your headset off and look at Flipside's user switcher interface on your desktop.
 
 **Step 2.** Click on the settings icon along the bottom of the screen. It looks like a little gear icon.
 

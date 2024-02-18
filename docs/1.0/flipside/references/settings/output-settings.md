@@ -1,6 +1,6 @@
 # Output settings
 
-You can find the output settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **Output** tab.
+You can find the output settings by clicking on the gear icon on the [[Flipside / references / desktop interface]] and clicking on the **Output** tab.
 
 This is what the output settings looks like:
 
@@ -23,8 +23,8 @@ Output settings include:
 
 ### Output options
 
-* **NDI Output** - Enables [NDI](https://ndi.tv/) which can be used to stream Flipside Studio video output over the network.
-* **DirectShow Output** - Enables [DirectShow](https://docs.microsoft.com/en-us/windows/win32/directshow/introduction-to-directshow) output, which creates a Flipside Studio virtual camera that can be used as a video source in apps like Zoom.
+* **NDI Output** - Enables [NDI](https://ndi.tv/) which can be used to stream Flipside video output over the network.
+* **DirectShow Output** - Enables [DirectShow](https://docs.microsoft.com/en-us/windows/win32/directshow/introduction-to-directshow) output, which creates a Flipside virtual camera that can be used as a video source in apps like Zoom.
 
 ---
 

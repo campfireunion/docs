@@ -2,9 +2,9 @@
 
 :omit-from-search
 
-> Note: Vive trackers are only supported in the SteamVR version of Flipside Studio.
+> Note: Vive trackers are only supported in the SteamVR version of Flipside.
 
-Flipside Studio supports [Vive trackers](https://www.vive.com/us/vive-tracker) for tracking your feet and waist. For this how-to you'll need a set of Vive trackers as well as straps or clips to attach them to your clothes. We recommend the [Rebuff Reality TrackStrap bundle](https://rebuffreality.com/).
+Flipside supports [Vive trackers](https://www.vive.com/us/vive-tracker) for tracking your feet and waist. For this how-to you'll need a set of Vive trackers as well as straps or clips to attach them to your clothes. We recommend the [Rebuff Reality TrackStrap bundle](https://rebuffreality.com/).
 
 ## Wearing the trackers
 
@@ -32,7 +32,7 @@ Once you've [paired your trackers to your PC](https://www.vive.com/us/support/tr
 
 **Step 1.** Put on your trackers and turn them on.
 
-**Step 2.** Take your headset off and look at Flipside Studio's user switcher interface on your desktop.
+**Step 2.** Take your headset off and look at Flipside's user switcher interface on your desktop.
 
 **Step 3.** Click on the settings icon along the bottom of the screen. It looks like a little gear icon.
 
@@ -44,4 +44,4 @@ Once you've [paired your trackers to your PC](https://www.vive.com/us/support/tr
 
 ---
 
-Back: [[Studio / How tos]]
+Back: [[Flipside / How tos]]

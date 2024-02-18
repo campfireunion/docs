@@ -1,6 +1,6 @@
 # HandFollower
 
-This component will force an object to follow the specified hand of a user. It's used, for example, in the Flipside Studio onboarding experience to attach a particle effect to your hands while you record a dance.
+This component will force an object to follow the specified hand of a user. It's used, for example, in the Flipside onboarding experience to attach a particle effect to your hands while you record a dance.
 
 ![HandFollower component](https://www.flipsidexr.com/files/docs/screenshots/handfollower.png)
 

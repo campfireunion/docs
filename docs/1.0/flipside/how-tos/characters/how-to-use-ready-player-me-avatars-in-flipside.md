@@ -1,6 +1,6 @@
-# How to use Ready Player Me avatars in Flipside Studio
+# How to use Ready Player Me avatars in Flipside
 
-Flipside Studio lets you create and use [Ready Player Me](https://readyplayer.me/) avatars in your shows. 
+Flipside lets you create and use [Ready Player Me](https://readyplayer.me/) avatars in your shows. 
 
 ## Creating a new avatar
 
@@ -42,11 +42,11 @@ Your avatar will begin the import process, which can take 10-20 seconds to compl
 
 Your avatar will begin the import process, which can take 10-20 seconds to complete.
 
-**Step 8.** When it's ready, click on the avatar you just modified to load the latest version into Flipside Studio.
+**Step 8.** When it's ready, click on the avatar you just modified to load the latest version into Flipside.
 
 ## Deleting a Ready Player Me avatar
 
->**Note:** Deleting a character does not remove it from any recordings you’ve made in Flipside Studio. 
+>**Note:** Deleting a character does not remove it from any recordings you’ve made in Flipside. 
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 
@@ -60,7 +60,7 @@ Your avatar will begin the import process, which can take 10-20 seconds to compl
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_2-6_5.mp4
 
->**Note:** If you logged into your Ready Player Me account prior to creating your character, your character will not be deleted from your Ready Player Me account, it will just be deleted from Flipside Studio.
+>**Note:** If you logged into your Ready Player Me account prior to creating your character, your character will not be deleted from your Ready Player Me account, it will just be deleted from Flipside.
 
 
 ---

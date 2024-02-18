@@ -8,7 +8,7 @@ We will be introducing several new Flipside Creator Tools components to do this:
 * [[Creator Tools / References / Custom components / ThrowableElement]] - Connects PropElement components to the scoring system.
 * [[Creator Tools / References / Custom components / TargetElement]] - Adds points when a user hits it with a ThrowableElement or BulletElement.
 * [[Creator Tools / References / Custom components / ScoreboardElement]] - Keeps track of scores for each user in the scene, and optionally displays them.
-* [[Creator Tools / References / Custom components / PooledAudioElement]] - Uses the Flipside Studio audio manager to manage audio playback performance.
+* [[Creator Tools / References / Custom components / PooledAudioElement]] - Uses the Flipside audio manager to manage audio playback performance.
 * [[Creator Tools / References / Custom components / TeleportObjectTo]] - Teleports an object to a given position whenever it is triggered by an event.
 * [[Creator Tools / References / Custom components / TeleportObjectsOnContact]] - Triggers **TeleportObjectTo** components to fire when they come into contact with it.
 
@@ -30,7 +30,7 @@ Lastly, go to **Flipside Creator Tools > Create Set From Current Scene**. You sh
 
 ![The most basic set](https://www.flipsidexr.com/files/docs/tutorials/the-most-basic-set-throwing-game.png)
 
-For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside Studio.
+For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside.
 
 ## Setting up the scoring system
 
@@ -106,7 +106,7 @@ As a last step, select the newly-created text object, change its **Font Size** s
 
 > Note: If you don't have TextMeshPro installed, you can find it under **Window > Package Manager**.
 
-You should now have a working game when you press play in the Unity editor, and which is ready to bundle and load up in Flipside Studio.
+You should now have a working game when you press play in the Unity editor, and which is ready to bundle and load up in Flipside.
 
 ## Next steps
 

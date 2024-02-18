@@ -24,5 +24,5 @@ When using the keyboard, the speech-to-text function lets you speak what you wan
 
 ---
 
-**Back:** [[Studio / References]]
+**Back:** [[Flipside / References]]
 

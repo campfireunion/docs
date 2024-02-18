@@ -1,6 +1,6 @@
 # How to use the eye target prop
 
-Flipside Studio provides an eye target prop that can be used to create points of interest in your sets where characters will focus on when the eye target is within their view.
+Flipside provides an eye target prop that can be used to create points of interest in your sets where characters will focus on when the eye target is within their view.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_7-12_1.mp4
 
@@ -16,4 +16,4 @@ The eye target will be visible only to actors but not visible to cameras.
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

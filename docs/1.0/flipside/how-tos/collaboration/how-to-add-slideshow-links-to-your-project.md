@@ -10,8 +10,8 @@ In addition to sharing recordings, characters and sets, you can also share slide
 
 **Step 4.** Paste your slideshow links into the text box then click **Save Changes**.
 
-When you reload Flipside Studio, your newly-added slides will be loaded into the slideshow when you have the same project open in-app. For more info, see [[studio / how tos / show tools / how to use the slideshow]].
+When you reload Flipside, your newly-added slides will be loaded into the slideshow when you have the same project open in-app. For more info, see [[Flipside / how tos / show tools / how to use the slideshow]].
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]

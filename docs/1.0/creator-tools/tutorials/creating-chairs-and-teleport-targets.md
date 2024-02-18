@@ -1,6 +1,6 @@
 # Creating chairs and teleport targets
 
-Teleport targets are a way to let Flipside Studio users snap themselves into consistent, preset positions on your sets using their teleporter. This helps actors to be on their marks, and helps directors frame their shots.
+Teleport targets are a way to let Flipside users snap themselves into consistent, preset positions on your sets using their teleporter. This helps actors to be on their marks, and helps directors frame their shots.
 
 There are two types of teleport targets:
 

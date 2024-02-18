@@ -1,4 +1,17 @@
-# Flipside Studio Changelog
+# Flipside Changelog
+
+## 1.0-stable
+
+### Improvements
+
+- Flipside Studio is now simply called Flipside
+- Buy tokens to spend in Flipside
+- Tip tokens to your favourite creators
+- Keyboard in messages now says "Send" instead of "Enter"
+
+### Bug fixes
+
+- Audio timing fixed on overdubs
 
 ## 2023.2.4-stable
 

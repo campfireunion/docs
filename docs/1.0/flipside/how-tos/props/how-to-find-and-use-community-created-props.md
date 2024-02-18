@@ -12,8 +12,8 @@ Here's how to find and use props that other community members have made and shar
 
 You should now see a notice that the new prop kit has been added to your account. You can safely close the browser tab.
 
-**Step 4.** Launch Flipside Studio and go to **Props > All Props > Imported** to find your newly-imported prop kit. Click on any of the props from the kit to load them up.
+**Step 4.** Launch Flipside and go to **Props > All Props > Imported** to find your newly-imported prop kit. Click on any of the props from the kit to load them up.
 
 ---
 
-Back: [[Studio / How tos]]
+Back: [[Flipside / How tos]]

@@ -1,10 +1,10 @@
 # Adding movement to hair, cloth, and tails
 
-Flipside Studio supports the ability to add natural physical movement to hair, cloth, and extra limbs such as tails on characters using a 3rd party plugin called [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144).
+Flipside supports the ability to add natural physical movement to hair, cloth, and extra limbs such as tails on characters using a 3rd party plugin called [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144).
 
 ## Adding dynamic bones
 
-Here is a quick overview of how to integrate Magica Cloth into your custom Flipside Studio characters.
+Here is a quick overview of how to integrate Magica Cloth into your custom Flipside characters.
 
 **Step 1.** First, download your own copy of [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) to use this integration from the Unity Asset Store.
 
@@ -46,7 +46,7 @@ Bone colliders are similar to physics colliders; they inform the simulating Magi
 
 **Step 8.** Disable culling.
 
-If the Culling Mode isn’t disabled, it can cause unexpected simulation problems with Flipside Studio’s multi-camera system. To do this, set the **Culling Mode** to **Off**.
+If the Culling Mode isn’t disabled, it can cause unexpected simulation problems with Flipside’s multi-camera system. To do this, set the **Culling Mode** to **Off**.
 
 ![Flipside Creator Tools - Culling mode](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_collider-list.png)
 
@@ -60,7 +60,7 @@ If the Culling Mode isn’t disabled, it can cause unexpected simulation problem
 
 **Step 11.** Press **Play** and watch your character's hair move in the scene. If you see unexpected movement, you can add a **Magica Physics Manager** component to your scene to improve the evaluation.   
 
-> **Important:** If you add a **Magica Physics Manager** component, **you must delete it** before importing your character into Flipside Studio. If it is not deleted, your character will not load.
+> **Important:** If you add a **Magica Physics Manager** component, **you must delete it** before importing your character into Flipside. If it is not deleted, your character will not load.
 
 **Step 12.** Adjust your settings.
 

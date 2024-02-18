@@ -1,8 +1,8 @@
 # Audio exports
 
-> Note: Exporting data is a Flipside Studio Pro feature. For more information, visit our [pricing page](/pricing).
+> Note: Exporting data is a Flipside Pro feature. For more information, visit our [pricing page](/pricing).
 
-Flipside Studio supports exporting audio data for each individual actor's part as WAV files.
+Flipside supports exporting audio data for each individual actor's part as WAV files.
 
 You can find the audio export options with these steps:
 
@@ -18,4 +18,4 @@ From here, you can export the audio for individual parts or all of them at once.
 
 ---
 
-Next: [[Studio / References / Settings]]
+Next: [[Flipside / References / Settings]]

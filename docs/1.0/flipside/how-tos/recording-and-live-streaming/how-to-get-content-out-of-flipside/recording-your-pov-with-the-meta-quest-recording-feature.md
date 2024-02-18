@@ -1,8 +1,8 @@
 # Recording your POV with the Meta Quest recording feature
 
-You can capture video of what you see in Flipside Studio using Meta Quest’s recording feature. Although this method is limited to your point of view, it’s a great option if you want to record video of your content directly onto your device.
+You can capture video of what you see in Flipside using Meta Quest’s recording feature. Although this method is limited to your point of view, it’s a great option if you want to record video of your content directly onto your device.
 
->**Note**: Since Meta Quest’s recording feature captures what you see, it does not work with Flipside Studio’s camera switcher.
+>**Note**: Since Meta Quest’s recording feature captures what you see, it does not work with Flipside’s camera switcher.
 
 You are the camera when you use Meta Quest’s recording feature. You can show your audience what you see or watch a recording you’ve made and capture it as if you are a camera.
 
@@ -18,7 +18,7 @@ To include audio, select the toggle next to **Include Mic Audio**.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_meta-quest-recording_1.mp4
 
-If you’re capturing the playback of a recording made in Flipside Studio, load the recording, position yourself to capture the desired framing, then press **play**.
+If you’re capturing the playback of a recording made in Flipside, load the recording, position yourself to capture the desired framing, then press **play**.
 
 **Step 4.** When you’re finished, press the **menu button** on your **right controller** to pull up **Meta Quest’s universal menu**.
 
@@ -34,4 +34,4 @@ Select how you want to share the recording. You can share to Facebook or sync to
 
 ---
 
-**Back:** [[Studio / How tos / Recording and live streaming]]
+**Back:** [[Flipside / How tos / Recording and live streaming]]

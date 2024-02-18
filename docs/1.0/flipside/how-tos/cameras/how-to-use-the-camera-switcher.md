@@ -26,7 +26,7 @@ The **Cut** and **Move** buttons toggle between cutting cameras and moving betwe
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-5_4.mp4
 
-Notice how the camera output now shows user interface elements. You can use this to capture the Flipside Studio user interface, for example to do walkthrough videos.
+Notice how the camera output now shows user interface elements. You can use this to capture the Flipside user interface, for example to do walkthrough videos.
 
 ---
 

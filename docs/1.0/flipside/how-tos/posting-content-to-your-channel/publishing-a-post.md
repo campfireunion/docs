@@ -1,6 +1,6 @@
 # Publishing a post
 
-Share any recording made in Flipside Studio to your channel.
+Share any recording made in Flipside to your channel.
 
 **Step 1.** Once your content is ready to share, press the **menu** button on either controller to open the main menu.  Then, open the **Recordings** menu.
 

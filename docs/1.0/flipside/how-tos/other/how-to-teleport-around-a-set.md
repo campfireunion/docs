@@ -1,6 +1,6 @@
 # How to teleport around a set
 
-Here's how to teleport around your sets in Flipside Studio.
+Here's how to teleport around your sets in Flipside.
 
 **Step 1.** Press your right hand joystick in any direction to open the teleporter.
 

@@ -1,6 +1,6 @@
-# How to use cameras in Flipside Studio
+# How to use cameras in Flipside
 
-Flipside Studio features a powerful camera system that lets you place cameras around your set and cut or move between them to create the show you envision. Here's how to use cameras in Flipside Studio.
+Flipside features a powerful camera system that lets you place cameras around your set and cut or move between them to create the show you envision. Here's how to use cameras in Flipside.
 
 **Step 1.** Press the menu button on either controller and choose **Camera** from the main menu.
 

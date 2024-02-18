@@ -21,7 +21,7 @@ don't cause issues with your teleport area.
 
 > Note: Props brought in as part of a set behave a little differently than props imported via
 > [[Creator Tools/Concepts/Prop kits]]. They don't appear in the Props palette, but rather where
-> you placed them in the set itself, however you _can_ move them around in Flipside Studio and it
+> you placed them in the set itself, however you _can_ move them around in Flipside and it
 > will remember their new location, as well as in saved setups. However, you can't remove them from
 > the set, or add more instances of them like you can with imported props.
 

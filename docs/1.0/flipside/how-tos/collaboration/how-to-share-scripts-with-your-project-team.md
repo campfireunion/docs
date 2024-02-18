@@ -16,7 +16,7 @@ In addition to sharing recordings, characters and sets, you can also share scrip
 
 Repeat steps 4-6 to add additional scripts to your project.
 
-When you reload Flipside Studio, your newly-added scripts will appear in the teleprompter list when you have the same project open in-app. For more info, see [[studio / how tos / show tools / how to use the teleprompter]].
+When you reload Flipside, your newly-added scripts will appear in the teleprompter list when you have the same project open in-app. For more info, see [[Flipside / how tos / show tools / how to use the teleprompter]].
 
 ---
 **Next:** [[:How to add slideshow links to your project]]

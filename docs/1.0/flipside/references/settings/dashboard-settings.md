@@ -1,6 +1,6 @@
 # Dashboard settings
 
-The following settings can be accessed via the **Settings** tab of the Flipside Studio dashboard.
+The following settings can be accessed via the **Settings** tab of the Flipside dashboard.
 
 ## Multiplayer
 

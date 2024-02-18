@@ -8,5 +8,5 @@ Supported formats are WAV and MP3. For any audio clip that is intended to loop, 
 
 ---
 
-**Back:** [[Studio / How tos]]
+**Back:** [[Flipside / How tos]]
 

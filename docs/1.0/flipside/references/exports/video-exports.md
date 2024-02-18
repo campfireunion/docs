@@ -1,10 +1,10 @@
 # Video exports
 
-Flipside Studio supports exporting video via the [[studio / references / desktop interface / video renderer]].
+Flipside supports exporting video via the [[Flipside / references / desktop interface / video renderer]].
 
 ### File formats
 
-Flipside Studio can export the following file formats:
+Flipside can export the following file formats:
 
 * MP4 video
 * PNG image sequence
@@ -15,7 +15,7 @@ EXR files are much larger while retaining more dynamic range.
 
 ### Output formats
 
-Flipside Studio can export in the following formats:
+Flipside can export in the following formats:
 
 * 360x180 (preview)
 * 1280x720
@@ -29,7 +29,7 @@ Flipside Studio can export in the following formats:
 
 ### Frame rates
 
-Flipside Studio can export at the following frames per second:
+Flipside can export at the following frames per second:
 
 * 24
 * 25

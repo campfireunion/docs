@@ -25,18 +25,18 @@ that make it more useful for you.
 4. Convert your scene into a Flipside set by choosing **Flipside Creator Tools > Create Set From Current Scene**.
 5. Save your scene again.
 
-At this point, you should have a basic working set that can be published to Flipside Studio or previewed in the Unity editor. To test it out, try pressing play and looking at your set in VR. You can teleport around using your right hand joystick or thumbpad to aim and pressing the index finger trigger to teleport.
+At this point, you should have a basic working set that can be published to Flipside or previewed in the Unity editor. To test it out, try pressing play and looking at your set in VR. You can teleport around using your right hand joystick or thumbpad to aim and pressing the index finger trigger to teleport.
 
 You can also grab and interact with any objects on your set that have a **PropElement** component on them. Just teleport to within reach and grab them using the grab or grip trigger button on your controller.
 
 ## Building and publishing your set
 
-When you're ready to build your set and test it out in Flipside Studio, click the **Build & Publish Set**
+When you're ready to build your set and test it out in Flipside, click the **Build & Publish Set**
 button on the Creator Tools wizard. Unity will begin the asset bundle build process, which can takes some time to complete, and may take longer the first time. When the build process has completed,  you'll see a progress bar appear under the **Build & Publish Set** button showing how far along you are in uploading and publishing your set.
 
 ![Flipside Creator Tools - Build & Publish Set](https://www.flipsidexr.com/files/docs/2023.1/CT_set-upload.png)
 
-When that's finished, you can find your set in Flipside Studio under the **Imported Sets** button on the far right of the **Sets** menu categories.
+When that's finished, you can find your set in Flipside under the **Imported Sets** button on the far right of the **Sets** menu categories.
 
 ## Customizing your set
 
@@ -46,7 +46,7 @@ There are several aspects of customizing a set, which are broken down into the f
 
 Click on the root object of your set in the **Hierarchy** window and over in the **Inspector** window you'll see the **Set Info** component. Here you can change the name of your set, as well as settings like attribution and lighting.
 
-The set name, attribution, and thumbnail image fields are displayed on the set's card in the Sets palette in Flipside Studio.
+The set name, attribution, and thumbnail image fields are displayed on the set's card in the Sets palette in Flipside.
 
 ### Teleport area
 
@@ -81,7 +81,7 @@ The Flipside Creator Tools also let you add many kinds of interactive elements t
 ### Audience
 
 Sets in Flipside include an **Audience** object that marks where your in-VR audience will appear when
-that feature of Flipside Studio is added. You can adjust its position to appear anywhere on set, but
+that feature of Flipside is added. You can adjust its position to appear anywhere on set, but
 you can only rotate it so it remains upright in order to maintain audience comfort. You can also adjust
 its scale so the audience can be larger or smaller than the set, creating an interesting effect for
 your viewers.
@@ -124,7 +124,7 @@ Lastly, there is an **Ambient Intensity** setting, which can contain any value f
 affects how intense the ambient lighting should appear.
 
 > **Note:** Unity has its own lighting settings in the **Lighting** window, but the settings above will
-> automatically override the settings found in the **Lighting** window on import into Flipside Studio,
+> automatically override the settings found in the **Lighting** window on import into Flipside,
 > and when you press **Play** to preview your set.
 
 ### Showing objects to actors but hiding them from cameras

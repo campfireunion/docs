@@ -17,7 +17,7 @@
 
 Additional properties are available depending on the chosen expression type.
 
-You'll also see a **Resource Usage** section at the bottom of the **AvatarModelReferences** component, which provides you with info about the resources that your character will use in Flipside Studio, as well as recommended limits for PC and mobile VR platforms.
+You'll also see a **Resource Usage** section at the bottom of the **AvatarModelReferences** component, which provides you with info about the resources that your character will use in Flipside, as well as recommended limits for PC and mobile VR platforms.
 
 ---
 

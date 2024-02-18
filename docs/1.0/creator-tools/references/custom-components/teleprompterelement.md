@@ -1,6 +1,6 @@
 # TeleprompterElement
 
-Attaching a TeleprompterElement alongside a TextMeshPro text object can turn that text element into a teleprompter in Flipside Studio.
+Attaching a TeleprompterElement alongside a TextMeshPro text object can turn that text element into a teleprompter in Flipside.
 
 Put the object on the **UI** layer in Unity to make it visible only to actors and hide it from cameras, letting you make teleprompters that fit seamlessly into your custom sets.
 

@@ -1,6 +1,6 @@
 # How to invite friends to collaborate over multiplayer
 
-Here's how to invite friends to join you in a multiplayer collaboration in Flipside Studio.
+Here's how to invite friends to join you in a multiplayer collaboration in Flipside.
 
 ## Sending an invite
 
@@ -18,9 +18,9 @@ Here's how to invite friends to join you in a multiplayer collaboration in Flips
 
 ## Accepting an invite
 
-**Step 1.** Watch for an email or an in-app notification in Flipside Studio. The in-app notification will appear on the **Dashboard** menu.
+**Step 1.** Watch for an email or an in-app notification in Flipside. The in-app notification will appear on the **Dashboard** menu.
 
-**Step 2.** Launch Flipside Studio if you're not already in the app.
+**Step 2.** Launch Flipside if you're not already in the app.
 
 **Step 3.** Click on the notification in the dashboard.
 

@@ -1,6 +1,6 @@
 # How to draw your own props with the Magic Pencil
 
-The Magic Pencil is a special prop in Flipside Studio that lets you draw in 3D. Your drawings become props you can grab and interact with.
+The Magic Pencil is a special prop in Flipside that lets you draw in 3D. Your drawings become props you can grab and interact with.
 
 **Step 1.** Open the **Props** menu and got to the **All Props > Decor** category.
 
@@ -24,4 +24,4 @@ The Magic Pencil is a special prop in Flipside Studio that lets you draw in 3D. 
 
 ---
 
-Back: [[Studio / How tos]]
+Back: [[Flipside / How tos]]

@@ -8,7 +8,7 @@ Here's how to add additional parts to an existing motion capture recording that 
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-7_1.mp4
 
-A countdown will begin and then Flipside Studio will start recording.
+A countdown will begin and then Flipside will start recording.
 
 **Step 3.** Perform your scene. Note that if you have multiple users connected over multiplayer, any user who is in character will be added as a new part at the same time.
 

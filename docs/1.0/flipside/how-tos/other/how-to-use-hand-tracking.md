@@ -2,13 +2,13 @@
 
 > **Note**: Hand tracking support is a Quest-only feature.
 
-Here's how to use hand tracking in Flipside Studio:
+Here's how to use hand tracking in Flipside:
 
 **Step 1.** Enable hand tracking on your Quest by going to **Settings** then **Hands and Controllers** in the Quest menu.
 
 **Step 2.** Make sure **Hand Tracking** is checked.
 
-**Step 3.** Launch Flipside Studio with your controllers put away. Your hands will be tracked automatically.
+**Step 3.** Launch Flipside with your controllers put away. Your hands will be tracked automatically.
 
 **Step 4.** To open the main menu, look a the palm of your left hand. You'll see the main menu icon appear. Pinch your index finger and thumb together to open it. This is also how you close the menu.
 

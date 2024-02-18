@@ -1,6 +1,6 @@
 # OscElement
 
-This component lets you connect [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) messages received by Flipside Studio to events in your set. This can be used to automate changes in your show using external OSC-compatible hardware and software interfaces.
+This component lets you connect [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) messages received by Flipside to events in your set. This can be used to automate changes in your show using external OSC-compatible hardware and software interfaces.
 
 ![OscElement component](https://www.flipsidexr.com/files/docs/screenshots/oscelement.png)
 

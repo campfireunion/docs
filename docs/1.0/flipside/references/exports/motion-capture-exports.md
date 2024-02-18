@@ -1,8 +1,8 @@
 # Motion capture exports
 
-> Note: Exporting data is a Flipside Studio Pro feature. For more information, visit our [pricing page](/pricing).
+> Note: Exporting data is a Flipside Pro feature. For more information, visit our [pricing page](/pricing).
 
-Flipside Studio lets you export your motion capture data as [BVH files](https://en.wikipedia.org/wiki/Biovision_Hierarchy). You can choose between Standard, Processed, and 3DSMax formats.
+Flipside lets you export your motion capture data as [BVH files](https://en.wikipedia.org/wiki/Biovision_Hierarchy). You can choose between Standard, Processed, and 3DSMax formats.
 
 You can find the BVH export options with these steps:
 

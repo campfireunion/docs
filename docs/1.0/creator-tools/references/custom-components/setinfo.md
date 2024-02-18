@@ -14,7 +14,7 @@
 * **Trilight Ambient Colours** - The sky, equator, and ground colors to affect the environment lighting if trilight lighting mode is chosen.
 * **Ambient Intensity** - The intensity of the ambient light.
 
-You'll also see a **Resource Usage** section at the bottom of the **SetInfo** component, which provides you with info about the resources that your set will use in Flipside Studio, as well as recommended limits for PC and mobile VR platforms.
+You'll also see a **Resource Usage** section at the bottom of the **SetInfo** component, which provides you with info about the resources that your set will use in Flipside, as well as recommended limits for PC and mobile VR platforms.
 
 ---
 

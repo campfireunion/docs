@@ -1,6 +1,6 @@
 # Using the audio controller
 
-The audio controller is your personal sound board in Flipside Studio. It will remember the
+The audio controller is your personal sound board in Flipside. It will remember the
 audio files you've added to it and their settings between sessions on a per-project basis,
 so you can always jump back in where you left off last time.
 

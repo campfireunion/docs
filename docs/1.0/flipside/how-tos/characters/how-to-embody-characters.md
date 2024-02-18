@@ -1,6 +1,6 @@
 # How to embody characters
 
-Flipside Studio lets you act as if you're the characters in your shows, animating them based on your movement and speech.
+Flipside lets you act as if you're the characters in your shows, animating them based on your movement and speech.
 
 **Step 1.** Press the menu button on either controller and choose **Characters** from the main menu.
 

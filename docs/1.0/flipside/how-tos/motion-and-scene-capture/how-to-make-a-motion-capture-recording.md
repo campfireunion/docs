@@ -1,12 +1,12 @@
 # How to make a motion capture recording
 
-Flipside Studio can record full motion and scene capture, including voices and interactions with props in the scene. It can capture up to 10 actors at a time, and you can record additional parts on top of existing recordings too.
+Flipside can record full motion and scene capture, including voices and interactions with props in the scene. It can capture up to 10 actors at a time, and you can record additional parts on top of existing recordings too.
 
 **Step 1.** Press the menu button on either controller and choose **Record** from the main menu.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-2_1.mp4
 
-A countdown will begin and then Flipside Studio will start recording.
+A countdown will begin and then Flipside will start recording.
 
 **Step 2.** Perform your scene.
 
@@ -22,7 +22,7 @@ The **Recordings** menu will appear, asking you whether you want to keep or disc
 
 You'll see the recording take a few seconds to save, which also backs it up to the cloud.
 
-You can also find this information in Flipside Studio's in-app **Help** menu.
+You can also find this information in Flipside's in-app **Help** menu.
 
 ---
 

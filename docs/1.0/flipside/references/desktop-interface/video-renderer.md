@@ -1,6 +1,6 @@
 # Video renderer
 
-The video renderer lets you render video from any camera in Flipside Studio in a variety of formats.
+The video renderer lets you render video from any camera in Flipside in a variety of formats.
 
 You can find the video renderer with these steps:
 
@@ -15,7 +15,7 @@ The video renderer looks like this:
 
 ### Features
 
-Flipside Studio's video renderer works uses a background queue so you don't have to wait for a render to be finished before queueing up the next render, and you'll never forget to start the queue since it runs automatically.
+Flipside's video renderer works uses a background queue so you don't have to wait for a render to be finished before queueing up the next render, and you'll never forget to start the queue since it runs automatically.
 
 You can render multiple cameras in a single render request, and you can pause the running queue or cancel a queued render.
 
@@ -29,4 +29,4 @@ The video renderer supports a number of different export options. For informatio
 
 ---
 
-Next: [[Studio / References / Exports]]
+Next: [[Flipside / References / Exports]]

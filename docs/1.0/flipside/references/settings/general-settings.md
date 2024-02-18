@@ -1,6 +1,6 @@
 # General settings
 
-You can find the general settings by clicking on the gear icon on the [[studio / references / desktop interface]] and clicking on the **General** tab.
+You can find the general settings by clicking on the gear icon on the [[Flipside / references / desktop interface]] and clicking on the **General** tab.
 
 This is what the general settings looks like:
 

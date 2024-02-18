@@ -1,6 +1,6 @@
 # How to adjust your camera settings
 
-In addition to the individual camera settings found on the cameras themselves, Flipside Studio includes a few additional camera settings found under the **Settings** tab of the **Dashboard**.
+In addition to the individual camera settings found on the cameras themselves, Flipside includes a few additional camera settings found under the **Settings** tab of the **Dashboard**.
 
 :gif https://www.flipsidexr.com/files/docs/2023.1/help_4-4_9.mp4
 

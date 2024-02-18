@@ -1,12 +1,12 @@
 # Installing Flipside Broadcaster
 
-Flipside Broadcaster is a companion app for Flipside Studio that displays your camera output as a Windows virtual camera so you can capture video or live stream to Twitch, YouTube, and more.
+Flipside Broadcaster is a companion app for Flipside that displays your camera output as a Windows virtual camera so you can capture video or live stream to Twitch, YouTube, and more.
 
 This page covers how to install Flipside Broadcaster on your PC.
 
 **To download Flipside Broadcaster, go to the [Downloads](/downloads) tab of the [Creator Portal](https://www.flipsidexr.com/user) on the Flipside XR website.**
 
-> **Note**: To access the [Creator Portal](https://www.flipsidexr.com/user) to download Flipside Broadcaster, Flipside Creator Tools and to upload your own assets to use in Flipside Studio, you must have your Flipside account set up. To do this, launch Flipside Studio and enter your email address when prompted.  
+> **Note**: To access the [Creator Portal](https://www.flipsidexr.com/user) to download Flipside Broadcaster, Flipside Creator Tools and to upload your own assets to use in Flipside, you must have your Flipside account set up. To do this, launch Flipside and enter your email address when prompted.  
 
 ## Requirements
 
@@ -29,10 +29,10 @@ When the installation is complete, Flipside Broadcaster will be available throug
 
 ## Useful links
 
-- [[Studio / How tos / Recording and live streaming / How to record video in Flipside Studio]]
-- [[Studio / How tos / Recording and live streaming / How to live stream from Flipside Studio]]
+- [[Flipside / How tos / Recording and live streaming / How to record video in Flipside]]
+- [[Flipside / How tos / Recording and live streaming / How to live stream from Flipside]]
 
 
 ---
 
-**Back:** [[studio / Getting started]]
+**Back:** [[Flipside / Getting started]]

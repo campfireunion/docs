@@ -1,6 +1,6 @@
 # Getting started
 
-This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside Studio.
+This page covers how to install, setup, and upgrade the Flipside Creator Tools in order to import your own characters and sets into Flipside.
 
 ## Download and Install Unity 3D
 
@@ -13,7 +13,7 @@ This page covers how to install, setup, and upgrade the Flipside Creator Tools i
 
 * [Download Unity 2020.3.36](unityhub://2020.3.36f1/71f96b79b9f0). This requires Unity Hub, so make sure you've completed the previous step.
 
-> **Important**: Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside Studio.
+> **Important**: Flipside Creator Tools require a specific version of Unity in order to work properly in Flipside.
 
 When asked if you want the install to occur in Unity Hub, answer **Yes**. 
 

@@ -1,6 +1,6 @@
 # RecordInitialPosition
 
-The RecordInitialPosition component tells Flipside Studio to record the initial position of any object it's placed on, and then reset that position on playback.
+The RecordInitialPosition component tells Flipside to record the initial position of any object it's placed on, and then reset that position on playback.
 This can be used to ensure objects that may move around but are not props moved by the actors themselves will replay consistently.
 
 Properties:

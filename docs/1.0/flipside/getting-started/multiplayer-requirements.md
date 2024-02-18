@@ -1,6 +1,6 @@
 # Multiplayer requirements
 
-Flipside Studio supports recording up to **10 people at a time** over distances large or small. These users can be actors or invisible participants in your productions, and multiplayer in Flipside Studio is fully cross-platform across all supported hardware and app store platforms.
+Flipside supports recording up to **10 people at a time** over distances large or small. These users can be actors or invisible participants in your productions, and multiplayer in Flipside is fully cross-platform across all supported hardware and app store platforms.
 
 ## Bandwidth requirements
 

@@ -1,6 +1,6 @@
 # How to use sets
 
-Flipside Studio lets you load virtual sets to make shows on, including letting you save different setups or configurations of each set. Here's how to find and load sets:
+Flipside lets you load virtual sets to make shows on, including letting you save different setups or configurations of each set. Here's how to find and load sets:
 
 **Step 1.** Press the menu button on either controller and choose **Sets** from the main menu.
 

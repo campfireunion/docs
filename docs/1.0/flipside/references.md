@@ -1,6 +1,6 @@
 # References
 
-The following pages include input controls, menu options, supported file formats, and other resources to help you get the most out of Flipside Studio.
+The following pages include input controls, menu options, supported file formats, and other resources to help you get the most out of Flipside.
 
 * [[> Controller basics]]
 * [[> Menu overview]]

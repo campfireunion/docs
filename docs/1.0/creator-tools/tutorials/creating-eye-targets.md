@@ -26,7 +26,7 @@ Lastly, click on the dropdown that says **No Function** and choose **EyeTarget.R
 
 ![Prop with temporary eye target](https://www.flipsidexr.com/files/docs/graphics/prop-temp-eye-target.png)
 
-You're now ready to save your scene and rebuild your set bundle for use in Flipside Studio.
+You're now ready to save your scene and rebuild your set bundle for use in Flipside.
 
 See the [[Creator Tools / References / Custom Components / EyeTarget]] references for information about each of the **EyeTarget** component's settings and capabilities.
 
