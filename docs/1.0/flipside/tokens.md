@@ -16,24 +16,24 @@ We run contests periodically where you can win tokens. We will also be awarding 
 
 <table style="width: 200px">
 	<tr style="background-color: #eee">
-		<th style="text-align: left; padding: 3px">Pricing</th>
-		<th style="text-align: right; padding: 3px">Tokens</th>
+		<th style="text-align: left; padding: 5px">Pricing</th>
+		<th style="text-align: right; padding: 5px">Tokens</th>
 	</tr>
 	<tr>
-		<td style="text-align: left; padding: 3px">$4.99</td>
-		<td style="text-align: right; padding: 3px">2,500</td>
+		<td style="text-align: left; padding: 5px">$4.99</td>
+		<td style="text-align: right; padding: 5px">2,500</td>
 	</tr>
 	<tr style="background-color: #eee">
-		<td style="text-align: left; padding: 3px">$9.99</td>
-		<td style="text-align: right; padding: 3px">5,500</td>
+		<td style="text-align: left; padding: 5px">$9.99</td>
+		<td style="text-align: right; padding: 5px">5,500</td>
 	</tr>
 	<tr>
-		<td style="text-align: left; padding: 3px">$19.99</td>
-		<td style="text-align: right">12,000</td>
+		<td style="text-align: left; padding: 5px">$19.99</td>
+		<td style="text-align: right; padding: 5px">12,000</td>
 	</tr>
 	<tr style="background-color: #eee">
-		<td style="text-align: left; padding: 3px">$49.99</td>
-		<td style="text-align: right; padding: 3px">35,000</td>
+		<td style="text-align: left; padding: 5px">$49.99</td>
+		<td style="text-align: right; padding: 5px">35,000</td>
 	</tr>
 </table>
 
