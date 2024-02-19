@@ -14,12 +14,12 @@ We run contests periodically where you can win tokens. We will also be awarding 
 
 ## Token purchase rates
 
-<table>
+<table style="width: 200px">
 <tr><th>Pricing</th><th>Tokens</th></tr>
-<tr><td>$4.99</td><td>2,500</td></tr>
-<tr><td>$9.99</td><td>5,500</td></tr>
-<tr><td>$19.99</td><td>12,000</td></tr>
-<tr><td>$49.99</td><td>35,000</td></tr>
+<tr style="text-align: right"><td>$4.99</td><td>2,500</td></tr>
+<tr style="text-align: right"><td>$9.99</td><td>5,500</td></tr>
+<tr style="text-align: right"><td>$19.99</td><td>12,000</td></tr>
+<tr style="text-align: right"><td>$49.99</td><td>35,000</td></tr>
 </table>
 
 All prices shown are in USD.
