@@ -15,11 +15,26 @@ We run contests periodically where you can win tokens. We will also be awarding 
 ## Token purchase rates
 
 <table style="width: 200px">
-<tr style="background-color: #eee"><th style="text-align: left">Pricing</th><th style="text-align: right">Tokens</th></tr>
-<tr><td style="text-align: left">$4.99</td><td style="text-align: right">2,500</td></tr>
-<tr style="background-color: #eee"><td style="text-align: left">$9.99</td><td style="text-align: right">5,500</td></tr>
-<tr><td style="text-align: left">$19.99</td><td style="text-align: right">12,000</td></tr>
-<tr style="background-color: #eee"><td style="text-align: left">$49.99</td><td style="text-align: right">35,000</td></tr>
+	<tr style="background-color: #eee">
+		<th style="text-align: left; padding: 3px">Pricing</th>
+		<th style="text-align: right; padding: 3px">Tokens</th>
+	</tr>
+	<tr>
+		<td style="text-align: left; padding: 3px">$4.99</td>
+		<td style="text-align: right; padding: 3px">2,500</td>
+	</tr>
+	<tr style="background-color: #eee">
+		<td style="text-align: left; padding: 3px">$9.99</td>
+		<td style="text-align: right; padding: 3px">5,500</td>
+	</tr>
+	<tr>
+		<td style="text-align: left; padding: 3px">$19.99</td>
+		<td style="text-align: right">12,000</td>
+	</tr>
+	<tr style="background-color: #eee">
+		<td style="text-align: left; padding: 3px">$49.99</td>
+		<td style="text-align: right; padding: 3px">35,000</td>
+	</tr>
 </table>
 
 All prices shown are in USD.
