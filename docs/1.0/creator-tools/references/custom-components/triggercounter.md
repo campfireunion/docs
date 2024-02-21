@@ -4,7 +4,7 @@ Triggers an event after the **Count** counter value reaches its specified **Targ
 
 Additional methods **SetTargetCount(count)** and **ResetCounter()** enable the counter behaviour to be modified dynamically through set interactions. An example use case would be to connect **SetTargetCount(count)** to **ScoreboardElement**'s **OnInitializeP1-P5** events to change the count required based on how many users are present.
 
-![TriggerCounter component](https://www.flipsidexr.com/files/docs/screenshots/trigger-counter.png)
+![TriggerCounter component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/trigger-counter.png)
 
 ---
 

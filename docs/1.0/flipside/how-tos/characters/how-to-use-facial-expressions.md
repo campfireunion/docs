@@ -4,7 +4,7 @@ Flipside will animate certain parts of your face automatically. This includes mo
 
 Flipside also provides some control over facial expressions.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_2-5_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_2-5_1.mp4
 
 **Step 1.** Hop into any character (see [[:how to embody characters]]).
 

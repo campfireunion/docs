@@ -4,25 +4,25 @@ Once you've [recorded a motion capture recording in Flipside](/docs/2023.2/studi
 
 **Step 1.** Press the menu button on either controller and choose **Recordings** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-3_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_4-3_1.mp4
 
 This will open the **Recordings** menu with a list of the recordings in the currently opened project.
 
 **Step 2.** Click on the recording you want to load and watch.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-3_2.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_4-3_2.mp4
 
 Once the recording has been loaded, you will see the menu change to display a list of acted parts in the recording.
 
 **Step 3.** Click the **Play** icon.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-3_3.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_4-3_3.mp4
 
 The recording should begin playing momentarily. From here you can also pause, rewind or stop the recording.
 
 **Step 4.** To unload a recording when you're done watching it, click **Unload Current Recording** on the bottom of the **Recordings** menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_4-3_4.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_4-3_4.mp4
 
 You can also find this information in Flipside's in-app **Help** menu.
 

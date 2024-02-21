@@ -13,7 +13,7 @@ PropElement has the following Unity event triggers:
 * **OnUseButtonUp** - The user released the trigger button while holding the object.
 * **OnEndInteraction** - The user let go of the object.
 
-![PropElement component](https://www.flipsidexr.com/files/docs/screenshots/prop-elements.png)
+![PropElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/prop-elements.png)
 
 You'll also notice that when you add a **PropElement** component, a **NavMeshModifier** is also
 added for you automatically with its **Ignore From Build** setting checked. This ensures that props

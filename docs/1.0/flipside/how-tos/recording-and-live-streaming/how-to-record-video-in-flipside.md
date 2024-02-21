@@ -21,15 +21,15 @@ Recording video requires a PC with the following software installed. Follow the 
 
 **Step 2.** Launch Flipside Broadcaster and click on the **Settings** icon in the top right of the room code window.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadscaster_settings.mp4 
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_Flipside-Broadscaster_settings.mp4 
 
 **Step 3.** Click **Install** to install the Flipside Broadcaster virtual camera. Click **OK** when prompted by the installer.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_installing-virtual-camera.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_Flipside-Broadcaster_installing-virtual-camera.mp4
 
 **Step 4.** Once the install process has finished, click **Start** to start the virtual camera.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
 
 
 ### OBS Studio setup
@@ -54,21 +54,21 @@ After completing the one-time steps above, here are the steps you can use to rec
 
 **Step 1.** Press the menu button on either controller and choose **Camera Switcher** from the main menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_5_web-edit.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_10-3_5_web-edit.mp4
 
 **Step 2.** Press the **Start Cast** button in the bottom left corner of the camera switcher. A popup window will appear with a room code to enter into Flipside Broadcaster to connect.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_6.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_10-3_6.mp4
 
 >**Note:** The **cast** button can also be found on the **main menu**.
 
 **Step 3.** Launch Flipside Broadcaster on your PC. Click the settings icon to start the Virtual Camera if it's not already connected. 
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_Flipside-Broadcaster_starting-virtual-camera.mp4
 
 Close the settings window then enter the room code you were given in step 2 and click **Connect**.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_10-3_7.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_10-3_7.mp4
 
 **Step 4.** Launch OBS Studio on your PC and click **Start Recording** to begin recording video of your Flipside Broadcaster output. Cut cameras as you would normally to craft your video output.
 

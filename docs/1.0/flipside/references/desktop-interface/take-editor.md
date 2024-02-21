@@ -12,7 +12,7 @@ You can find the take editor with these steps:
 
 The take editor window looks like this:
 
-![Take editor window](https://www.flipsidexr.com/files/docs/screenshots/take-editor.jpg)
+![Take editor window](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/take-editor.jpg)
 
 ---
 

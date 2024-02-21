@@ -2,7 +2,7 @@
 
 This component lets you build prop kits that can be imported into Flipside independently from sets. After publishing, you'll find the props from your kit under **Props > Imported** in Flipside.
 
-![PropKit component](https://www.flipsidexr.com/files/docs/screenshots/propkit.png)
+![PropKit component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/propkit.png)
 
 A kit is a list of prefabs that each have the [[:PropElement]] component on them, along with a name and optional thumbnail to use to display the prop in Flipside's prop menu.
 

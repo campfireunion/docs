@@ -12,7 +12,7 @@ interactions:
 * **OnCameraActivated** - Do something when the camera is activated in the Flipside camera switcher.
 * **OnCameraDeactivated** - Do something when the camera is deactivated in the Flipside camera switcher.
 
-![CameraElement component](https://www.flipsidexr.com/files/docs/screenshots/camera-events.png)
+![CameraElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/camera-events.png)
 
 These events let you do things like start a timed animation sequence as your show opening whenever you cut
 to the associated camera position.

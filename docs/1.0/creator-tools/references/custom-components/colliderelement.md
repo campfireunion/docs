@@ -11,7 +11,7 @@ on the following interactions:
 You can also limit whether the events on a ColliderElement should trigger for **Everything**, only a user's **Hands**,
 only a user's **Index Finger**, a specific **Object List**, or only objects with a **Custom Tag** (see [CustomTag](#customtag) below), to create larger or more fine-grained interactions.
 
-![ColliderElement component](https://www.flipsidexr.com/files/docs/screenshots/collider-element.png)
+![ColliderElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/collider-element.png)
 
 ---
 

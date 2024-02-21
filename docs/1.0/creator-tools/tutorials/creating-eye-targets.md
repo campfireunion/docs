@@ -24,7 +24,7 @@ Drag the **EyeTarget** component into the empty component slot that was created 
 
 Lastly, click on the dropdown that says **No Function** and choose **EyeTarget.RegisterForTime (float)**. Set the value from **0** to **1** to tell it to become an active eye target for one second every time the prop is grabbed.
 
-![Prop with temporary eye target](https://www.flipsidexr.com/files/docs/graphics/prop-temp-eye-target.png)
+![Prop with temporary eye target](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/graphics/prop-temp-eye-target.png)
 
 You're now ready to save your scene and rebuild your set bundle for use in Flipside.
 

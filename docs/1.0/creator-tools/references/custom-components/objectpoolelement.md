@@ -4,7 +4,7 @@ Provides an object pool you can use to improve performance when needing to insta
 
 To use it, add the ObjectPoolElement to a game object in your hierarchy, assign a prefab that should be instantiated, and then trigger it to instantiate a copy of your prefab by assigning `ObjectPoolElement.InstantiateAndEnableAt()` to any event in the scene. The method takes a Transform component to use as the position to place the instance of your prefab.
 
-![ObjectPoolElement component](https://www.flipsidexr.com/files/docs/screenshots/object-pool-element.png)
+![ObjectPoolElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/object-pool-element.png)
 
 ---
 

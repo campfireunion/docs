@@ -29,7 +29,7 @@ When the installation is complete, Flipside Broadcaster will be available throug
 
 If you encounter the following popup when trying to install or run Flipside Broadcaster, click **More info** then **Run anyway** on the next screen.
 
-![Windows protected warning](https://www.flipsidexr.com/files/docs/2023.1/windows_protected.png)
+![Windows protected warning](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/windows_protected.png)
 
 ## Useful links
 

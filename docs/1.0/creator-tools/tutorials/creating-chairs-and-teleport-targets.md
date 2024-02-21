@@ -13,7 +13,7 @@ To create a teleport target, right-click the **Contents** object in your scene's
 
 Next, with your new game object highlighted in the hierarchy, click on the **Add Component** button in the **Inspector** and choose **TeleportTarget**. You'll see an X appear in the **Scene** window where your game object is positioned, as shown in the following screenshot:
 
-![TeleportTarget component](https://www.flipsidexr.com/files/docs/graphics/teleport-target.png)
+![TeleportTarget component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/graphics/teleport-target.png)
 
 Move and rotate your game object to the position you want users to appear at. The blue arrow shows the direction they will be facing.
 
@@ -27,7 +27,7 @@ To create a sitting target, select the object you want to place the target on in
 
 Adjust the position of each of these three components to adjust where the character should sit and where their feet should go. You'll see the reference lines change in the **Scene** window as you move them. Here's how they would look after being positioned on a standard Unity cube object:
 
-![Chair component](https://www.flipsidexr.com/files/docs/graphics/chair-target.png)
+![Chair component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/graphics/chair-target.png)
 
 ---
 

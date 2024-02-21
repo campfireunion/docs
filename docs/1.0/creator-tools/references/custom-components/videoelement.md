@@ -2,7 +2,7 @@
 
 Enables the playing of videos on objects in your sets, including full playback controls.
 
-![VideoElement component](https://www.flipsidexr.com/files/docs/screenshots/videoelement.png)
+![VideoElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/videoelement.png)
 
 You can provide a list of videos, in which case it can act as a slideshow, or a single video link.
 

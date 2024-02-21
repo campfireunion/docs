@@ -23,7 +23,7 @@ object of a character in the Unity scene hierarchy, below the **AvatarModelRefer
 
 Here's how they look on a new character, with the **GenerateColliders** component shown beside them.
 
-![GenerateColliders component](https://www.flipsidexr.com/files/docs/screenshots/generatecolliders-component.png)
+![GenerateColliders component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/generatecolliders-component.png)
 
 ### Customizing your colliders
 
@@ -38,7 +38,7 @@ for any bone that has vertices associated with it.  In some instances you might 
 bone or the colliders being generated are incorrect so you will be adding colliders to them manually after
 generation. In these cases you will want to add the bone to the **Exclude Transform** List.
 
-![Identifying transforms to exclude](https://www.flipsidexr.com/files/docs/screenshots/colliders-screenshot1.png)
+![Identifying transforms to exclude](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-screenshot1.png)
 
 > _The pelvis, shoulders, and eyes have extra colliders we don't need._
 
@@ -46,7 +46,7 @@ To do this all you have to do is drag the bone to exclude from the **Hierarchy**
 text in the **Inspector** and it will add it to the list. You can also increment the size by one and then drag
 the bone from the hierarchy to the empty space on the list.
 
-![Exclude transforms list](https://www.flipsidexr.com/files/docs/screenshots/colliders-exclude-transforms.png)
+![Exclude transforms list](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-exclude-transforms.png)
 
 Continue adding all the bones you wish to exclude then hit the **Generate Colliders** button at the end to have
 the system regenerate ignoring the bones you excluded.
@@ -61,7 +61,7 @@ To add a bone, find it in the hierarchy window and drag it to capsule, sphere, o
 section. Drag it over the name or increment its size by one and drag it to the ope space as you did with the exclude
 list.
 
-![Capsule Transforms list](https://www.flipsidexr.com/files/docs/screenshots/colliders-capsule-transforms.png)
+![Capsule Transforms list](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-capsule-transforms.png)
 
 Repeat this for every bone you want to change. After doing this hitting the **Generate Collider** button will
 regenerate your colliders using the collider types you specified.
@@ -78,19 +78,19 @@ component.
 
 a) First click on the gear icon for the component you just made changes to and choose **Copy Component**.
 
-![Copy component](https://www.flipsidexr.com/files/docs/screenshots/copy-component.png)
+![Copy component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/copy-component.png)
 
 b) Next, go to the component on the opposite side and click on the gear icon. This time, choose **Paste Comonent Values**.
 After doing this, you might have to inverse the x or y position and possibly the rotation so that it lines up correctly.
 
-![Paste component values](https://www.flipsidexr.com/files/docs/screenshots/paste-component-values.png)
+![Paste component values](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/paste-component-values.png)
 
 When dealing with arms, fingers and legs, make sure that the joints don't overlap. If you find the generated colliders do
 overlap, tweak them until they are just barely touching one another. The only exception to this is if you have a character
 that does not match standard human proportions. In these instances, you might want to have more or less overlap and will
 require some testing to determine what settings work best.
 
-![Colliders - Arm setup](https://www.flipsidexr.com/files/docs/screenshots/colliders-arms.png)
+![Colliders - Arm setup](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-arms.png)
 
 It's okay to have overlap in other areas like the head or spine/chest. The best practice if you are going to have overlap
 is to ensure the colliders are all on the same bone. This avoids the rigid body trying to pull itself apart during
@@ -104,7 +104,7 @@ If you find that the generated colliders are not meeting your needs, you may als
 done before or after generation. All collider types are supported, but mesh colliders must be convex. With any solution,
 you will want to try to use mostly primitive collider types and try to limit the number used for performance reasons.
 
-![Colliders - head setup](https://www.flipsidexr.com/files/docs/screenshots/colliders-head.png)
+![Colliders - head setup](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-head.png)
 
 #### Step 5. Save and test
 
@@ -127,7 +127,7 @@ but if you have a character that is unique you can change the default body. The 
 The system will still try to make the shape you choose fit the vertices but will force all the colliders to a specific type
 before overrides are applied.
 
-![Dfeault collider types](https://www.flipsidexr.com/files/docs/screenshots/colliders-types.png)
+![Dfeault collider types](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/colliders-types.png)
 
 #### Size multiplyer
 
@@ -142,7 +142,7 @@ colliders generated, you might want to experiment with adding layers by checking
 
 > Note: You will likely get many more colliders that don't exactly match the body parts and it will take more work to clean them up.
 
-![Bone weight layers](https://www.flipsidexr.com/files/docs/screenshots/bone-weight-layers.png)
+![Bone weight layers](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/bone-weight-layers.png)
 
 ### Adding colliders to existing characters
 
@@ -176,11 +176,11 @@ due to the bones not being set correctly on the import settings. Click on the mo
 the **Rig** tab and make sure **Animation Type** is set to **Humanoid**, the **Avatar Definition** is **Create From This Model**,
 then hit the **Configure** button.
 
-![Unity humanoid rig](https://www.flipsidexr.com/files/docs/screenshots/unity-humanoid-rig.png)
+![Unity humanoid rig](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/unity-humanoid-rig.png)
  
 In this screen you will want to go through and make sure the arms, fingers, and legs are mapped to the correct bones.
 
-![Unity bone configuration](https://www.flipsidexr.com/files/docs/screenshots/unity-bone-configuration.png)
+![Unity bone configuration](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/unity-bone-configuration.png)
 
 #### Colliders generated for some bones are wrong size and shape 
 

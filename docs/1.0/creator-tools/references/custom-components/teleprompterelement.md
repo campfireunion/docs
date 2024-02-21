@@ -6,7 +6,7 @@ Put the object on the **UI** layer in Unity to make it visible only to actors an
 
 Combine this with buttons connected to a [[:FlipsideActions]] component and you can build custom teleprompter controls as well.
 
-![TeleprompterElement component](https://www.flipsidexr.com/files/docs/screenshots/teleprompter-element.png)
+![TeleprompterElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/teleprompter-element.png)
 
 ---
 

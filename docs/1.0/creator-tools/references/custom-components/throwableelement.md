@@ -8,7 +8,7 @@ You can tie event handlers to the following list of events:
 * **OnHitTarget** - The throwable has hit a target.
 * **OnHitPlayer** - The throwable has hit a player.
 
-![ThrowableElement component](https://www.flipsidexr.com/files/docs/screenshots/throwable-element.png)
+![ThrowableElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/throwable-element.png)
 
 ---
 

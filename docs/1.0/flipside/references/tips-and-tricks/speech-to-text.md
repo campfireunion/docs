@@ -4,7 +4,7 @@
 
 When using the keyboard, the speech-to-text function lets you speak what you want to enter instead of typing it.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_speech-to-text_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_speech-to-text_1.mp4
 
 **Step 1.**  With the keyboard pulled up, click on the **microphone** icon and speak the text you want to enter.  The icon will turn red when your voice is being captured.
 
@@ -14,7 +14,7 @@ When using the keyboard, the speech-to-text function lets you speak what you wan
 
 When using the keyboard, the speech-to-text function lets you speak what you want to enter instead of typing it.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_speech-to-text_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_speech-to-text_1.mp4
 
 **Step 1.**  With the keyboard pulled up, click on the **microphone** icon and speak the text you want to enter.  The icon will turn red when your voice is being captured.
 

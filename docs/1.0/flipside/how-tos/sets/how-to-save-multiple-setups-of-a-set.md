@@ -4,13 +4,13 @@ Flipside lets you save and come back to different configurations of any given se
 
 **Step 1.** Choose a set and add a few props to it.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_3-3_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_3-3_1.mp4
 
 **Step 2.** Open either the **Sets** or **Props** menu.
 
 **Step 3.** Click on **Save As New Setup** on the bottom row of the menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_3-3_2.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_3-3_2.mp4
 
 **Step 4.** Make some changes to the set by adding, removing, or repositioning props, or changing the sky.
 

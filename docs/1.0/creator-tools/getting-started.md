@@ -51,13 +51,13 @@ The Flipside Creator Tools user interface is primarily made up of 3 elements:
 
 ### 1\. The Flipside Creator Tools menu
 
-![Flipside Creator Tools menu](https://www.flipsidexr.com/files/docs/2023.1/CT_tab.png)
+![Flipside Creator Tools menu](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_tab.png)
 
 ### 2\. The Flipside Creator Tools wizard
 
 The Flipside Creator Tools wizard can be opened via **Flipside Creator Tools > Open Creator Tools** in the above menu. Here is where you can build and publish your custom characters and sets.
 
-![Flipside Creator Tools wizard](https://www.flipsidexr.com/files/docs/2023.1/CT_window.png)
+![Flipside Creator Tools wizard](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_window.png)
 
 ### 3\. Various custom components
 

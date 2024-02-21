@@ -9,7 +9,7 @@ You can tie event handlers to the following list of events:
 * **OnHitTarget** - The bullet has hit a target.
 * **OnHitPlayer** - The bullet has hit a player.
 
-![BulletElement component](https://www.flipsidexr.com/files/docs/screenshots/bullet-element.png)
+![BulletElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/bullet-element.png)
 
 ---
 

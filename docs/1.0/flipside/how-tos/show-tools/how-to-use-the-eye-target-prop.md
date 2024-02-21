@@ -2,7 +2,7 @@
 
 Flipside provides an eye target prop that can be used to create points of interest in your sets where characters will focus on when the eye target is within their view.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-12_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_7-12_1.mp4
 
 **Step 1.** Press the menu button on either controller and choose **Props** from the main menu.
 

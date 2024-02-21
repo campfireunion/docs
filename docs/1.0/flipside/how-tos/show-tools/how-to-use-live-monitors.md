@@ -8,7 +8,7 @@ Live monitors provide the actors in VR with a reference of what viewers watching
 
 **Step 3.** Find the **Live Monitor** prop in the show tools listings and click on it to add it to your set.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-9_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_7-9_1.mp4
 
 **Step 4.** Place the live monitor where you want it to appear on set.
 

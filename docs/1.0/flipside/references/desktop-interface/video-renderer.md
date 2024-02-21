@@ -11,7 +11,7 @@ You can find the video renderer with these steps:
 
 The video renderer looks like this:
 
-![Video renderer window](https://www.flipsidexr.com/files/docs/screenshots/video-renderer.jpg)
+![Video renderer window](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/video-renderer.jpg)
 
 ### Features
 

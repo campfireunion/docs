@@ -6,7 +6,7 @@ You can tie event handlers to the following list of events:
 
 * **OnHit** - The target was hit.
 
-![TargetElement component](https://www.flipsidexr.com/files/docs/screenshots/target-element.png)
+![TargetElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/target-element.png)
 
 ---
 

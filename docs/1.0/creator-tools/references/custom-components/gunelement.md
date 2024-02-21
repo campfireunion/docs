@@ -7,7 +7,7 @@ You can tie event handlers to the following list of events:
 * **OnFire** - Called when a bullet has been fired.
 * **OnEmptyFire** - Called when the trigger is pulled but the ammo has run out.
 
-![GunElement component](https://www.flipsidexr.com/files/docs/screenshots/gun-element.png)
+![GunElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/gun-element.png)
 
 ---
 

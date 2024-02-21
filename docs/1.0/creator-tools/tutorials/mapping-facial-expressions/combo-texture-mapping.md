@@ -12,11 +12,11 @@ Note that the two can be combined together to achieve more complex texture-based
 
 1\. Open your character's Unity scene and select the character in the Hierarchy pane.
 
-![Avatar Model References](https://www.flipsidexr.com/files/docs/screenshots/avatar-model-references.png)
+![Avatar Model References](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/avatar-model-references.png)
 
 2\. In the Inspector pane, change the **Expression Type** setting to **Combo Textures**.
 
-![Expression types](https://www.flipsidexr.com/files/docs/screenshots/expression-types.png)
+![Expression types](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/expression-types.png)
 
 3\. Scroll down in the Inspector pane and click **Add Component** then add a **Facial Expression Reference** component. Combo textures will be added to this component instead of via the main **Avatar Model References** component.
 
@@ -24,7 +24,7 @@ Note that the two can be combined together to achieve more complex texture-based
 
 You'll see a list of available texture options on the **Facial Expression Reference** component. If you want to include blinking texture variants, click the **Use blinking textures** checkbox which will unhide those texture settings as well.
 
-![Applying combo textures](https://www.flipsidexr.com/files/docs/screenshots/applying-combo-textures.png)
+![Applying combo textures](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/applying-combo-textures.png)
 
 5\. Drag each of your textures into the Project pane, then select them all.
 

@@ -2,7 +2,7 @@
 
 The **FlipsideActions** component can be used to trigger a number of Flipside's internal actions via Unity events. It can also be used to listen for internal Flipside events and trigger actions in your set when they occur.
 
-![FlipsideActions component](https://www.flipsidexr.com/files/docs/screenshots/flipsideactions-component.png)
+![FlipsideActions component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/flipsideactions-component.png)
 
 Camera actions include:
 

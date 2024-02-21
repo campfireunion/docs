@@ -15,7 +15,7 @@ From there, click on the **Report a Problem** button in the bottom right corner 
 
 If you're using Flipside on the PC, you can also take your headset off and click on the Settings icon on the desktop camera switcher. From there, click on the Support tab and you'll see a form where you can report the issue to us.
 
-:gif https://www.flipsidexr.com/files/docs/gifs/update-23_support.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/gifs/update-23_support.mp4
 
 ### Reporting crashes
 
@@ -23,11 +23,11 @@ If you're experiencing an application crash, or an issue that's blocking you fro
 
 1\. In Windows Explorer, make sure _View > Hidden items_ is checked.
 
-![Windows Explorer show hidden items](https://www.flipsidexr.com/files/docs/screenshots/windows-explorer-show-hidden-files.png)
+![Windows Explorer show hidden items](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/windows-explorer-show-hidden-files.png)
 
 2\. For Flipside, browse to `AppData/LocalLow/Flipside XR/Flipside` under your home directory. For Flipside Broadcaster, browse to `AppData/LocalLow/Flipside XR/Flipside Broadcaster` instead.
 
-![Flipside output log file](https://www.flipsidexr.com/files/docs/screenshots/flipside-output-log-location.png)
+![Flipside output log file](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/flipside-output-log-location.png)
 
 3\. The file `Player.log` in this folder is the output log from your last time using the app. Please include this file with your support request, along with your general system information (Windows version, CPU, GPU, RAM, remaining storage space).
 

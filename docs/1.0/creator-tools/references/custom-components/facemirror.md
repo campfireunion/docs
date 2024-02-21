@@ -2,7 +2,7 @@
 
 FaceMirror lets you animate faces on non-character elements in a set, such as props or even inanimate objects.
 
-![FaceMirror component](https://www.flipsidexr.com/files/docs/screenshots/facemirror-component.png)
+![FaceMirror component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/facemirror-component.png)
 
 FaceMirror supports the following customizable behaviours:
 

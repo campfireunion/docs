@@ -4,7 +4,7 @@ You can find the microphone settings by clicking on the gear icon on the [[Flips
 
 This is what the microphone settings looks like:
 
-![Microphone settings window](https://www.flipsidexr.com/files/docs/2023.1/desktop-interface_microphone-settings.png)
+![Microphone settings window](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/desktop-interface_microphone-settings.png)
 
 Microphone settings include:
 

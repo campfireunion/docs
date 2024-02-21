@@ -4,7 +4,7 @@
 
 The desktop interface gives a director the ability to controlling cameras from outside of VR, as well as access Flipside's settings.
 
-![Desktop camera switcher](https://www.flipsidexr.com/files/docs/screenshots/desktop-switcher.jpg)
+![Desktop camera switcher](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/desktop-switcher.jpg)
 
 The main window area is your active camera output. Along the bottom are the director controls. On the right are previews for each camera position.
 

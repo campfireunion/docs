@@ -2,7 +2,7 @@
 
 Eye targets define points of interest in the scene that a character's eyes should lock onto when within view.
 
-![EyeTarget component](https://www.flipsidexr.com/files/docs/graphics/eyetarget-component.png)
+![EyeTarget component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/graphics/eyetarget-component.png)
 
 Eye targets support the following customizable behaviours:
 

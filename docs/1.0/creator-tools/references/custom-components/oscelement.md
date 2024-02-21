@@ -2,7 +2,7 @@
 
 This component lets you connect [OSC](https://en.wikipedia.org/wiki/Open_Sound_Control) messages received by Flipside to events in your set. This can be used to automate changes in your show using external OSC-compatible hardware and software interfaces.
 
-![OscElement component](https://www.flipsidexr.com/files/docs/screenshots/oscelement.png)
+![OscElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/oscelement.png)
 
 Each OscElement listens at a single OSC message address that can be anything you define. They take the form **/message/address**. You can have any number of OscElement components in a set listening on different addresses, but you can only have one for each address.
 

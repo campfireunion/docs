@@ -8,17 +8,17 @@ Flipside supports the following two structures for wrist twist bones. If your ch
 
 In this case, the twist bone must have the same parent as the hand/palm bone.
 
-![Twist Bone Parallel](https://www.flipsidexr.com/files/docs/screenshots/ParallelTwistBone.png)
+![Twist Bone Parallel](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/ParallelTwistBone.png)
 
 ### 2. Hierarchical twist bones
 
 In this case, the twist bone must be the child of the forarm bone, and the parent of the palm bone.
 
-![Twist Bone Hierarchical](https://www.flipsidexr.com/files/docs/screenshots/HierarchicalTwistBone.png)
+![Twist Bone Hierarchical](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/HierarchicalTwistBone.png)
 
 Be sure that it is not being controlled by mecanim.
 
-![Twist Bone Mecanim](https://www.flipsidexr.com/files/docs/screenshots/HierarchicalBoneMapping.png)
+![Twist Bone Mecanim](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/HierarchicalBoneMapping.png)
 
 ### 3. Multiple twist bones
 
@@ -26,7 +26,7 @@ You can have multiple twist bones but will need to assign them through the Creat
 
 Go to the AvatarModelReferences on your character. You should see a section titled **Wrist Settings** with lists for Left and Right Wrist Twist Bones.
 
-![Empty Wrist Bones](https://www.flipsidexr.com/files/docs/gifs/EmptyWristBones.gif)
+![Empty Wrist Bones](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/gifs/EmptyWristBones.gif)
 
 If both lists are empty, you should also see a **Find Wrist Bones** button. If you click that, Flipside will search for a child of the lower arm other than the hand and assign that to the list. This is the same as what it uses by default if you don't assign one here.
 

@@ -2,7 +2,7 @@
 
 Provides methods for applying float values to individual elements of a Transform, adjusting for different input and output value ranges defined by the **Input Range** and **Output Range** settings.
 
-![TransformAnimator component](https://www.flipsidexr.com/files/docs/screenshots/transformanimator.png)
+![TransformAnimator component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/transformanimator.png)
 
 Custom methods to connect to Unity events include:
 

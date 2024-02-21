@@ -10,7 +10,7 @@ In case users exhibit unwanted behaviour, here's how you can block them in Flips
 
 **Step 4.** Select **Block** from the dropdown list.
 
-![Flipside - Block user](https://www.flipsidexr.com/files/docs/2023.1/5-6_block.png)
+![Flipside - Block user](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/5-6_block.png)
 
 ---
 

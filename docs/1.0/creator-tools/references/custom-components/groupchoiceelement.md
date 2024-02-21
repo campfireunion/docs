@@ -4,7 +4,7 @@ Group choices let you put something to a vote amongst the users present in the s
 
 The example scene `FlipsideCreatorTools/Examples/Example-GroupChoice` shows how a group choice can be set up. To add it to your sets, drag the `GroupChoiceElement` prefab from `FlipsideCreatorTools/Resources` and customize the options and associated events as needed.
 
-![GroupChoiceElement component](https://www.flipsidexr.com/files/docs/screenshots/group-choice-element.png)
+![GroupChoiceElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/group-choice-element.png)
 
 ---
 

@@ -28,7 +28,7 @@ Now go to **File > Save** or press **Ctrl+S** to save your scene.
 
 Lastly, go to **Flipside Creator Tools > Create Set From Current Scene**. You should now have a scene that looks like this and is all set up for bundling and uploading.
 
-![The most basic set](https://www.flipsidexr.com/files/docs/tutorials/the-most-basic-set-throwing-game.png)
+![The most basic set](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/the-most-basic-set-throwing-game.png)
 
 For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside.
 
@@ -46,7 +46,7 @@ On the **ScoreboardElement**, click on the **+** icon under the **OnWin** event,
 
 Lastly, click on the icon next to the box labelled **None (Audio Clip)** and choose the audio clip named **Jingle_Win_01**, which is a free sound effect from the [Sci-Fi Sfx](https://assetstore.unity.com/packages/audio/sound-fx/sci-fi-sfx-32830) package. Here's how it should look when it's set up correctly:
 
-![Scoreboard win audio](https://www.flipsidexr.com/files/docs/tutorials/scoreboard-win-audio.png)
+![Scoreboard win audio](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/scoreboard-win-audio.png)
 
 ## Setting up a target
 
@@ -54,7 +54,7 @@ Next, we're going to set up a target. This target won't move or do anything fanc
 
 Right-click **Contents** again in the scene **Hierarchy** and choose **3D Object > Cube** then adjust its settings like so:
 
-![TargetElement settings](https://www.flipsidexr.com/files/docs/tutorials/target-element-settings.png)
+![TargetElement settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/target-element-settings.png)
 
 Now click on the **Add Component** button in the **Inspector** and add a **TargetElement** component.
 
@@ -68,7 +68,7 @@ Lastly, click on the icon next to the box labelled **None (Audio Clip)** and cho
 
 Right-click **Contents** in the scene **Hierarchy** and choose **3D Object > Sphere**. Set the sphere's settings like so:
 
-![Ball settings](https://www.flipsidexr.com/files/docs/tutorials/ball-settings.png)
+![Ball settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/ball-settings.png)
 
 Next, add **PropElement**, **ThrowableElement**, and **TeleportObjectTo** components to your ball object through the **Inspector** window.
 
@@ -88,13 +88,13 @@ Let's fix things up so the ball isn't so hard to catch, and also make it feel a 
 
 Right-click **Contents** again and add another cube to the scene. This will be a stand for the ball to sit on when it spawns. Set its **Transform** settings to the following:
 
-![Ball stand](https://www.flipsidexr.com/files/docs/tutorials/ball-stand.png)
+![Ball stand](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/ball-stand.png)
 
 To make our game usable for multiple players, select the ball, its teleport position, and its stand in the **Hierarchy** window, right-click and choose **Duplicate**.
 
 From there, just change the **X** position from **-0.5** to **0.5** so it appears one meter away from the original, like so:
 
-![Cloned ball setup](https://www.flipsidexr.com/files/docs/tutorials/cloned-ball-setup.png)
+![Cloned ball setup](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/cloned-ball-setup.png)
 
 Lastly, lets make the scores visible to users as they're playing.
 
@@ -102,7 +102,7 @@ Right-click **Contents** again and choose **3D Object > Text - TextMeshPro**. Se
 
 As a last step, select the newly-created text object, change its **Font Size** setting to **8**, and adjust its **Transform** settings like so:
 
-![Scoreboard text settings](https://www.flipsidexr.com/files/docs/tutorials/scoreboard-text-settings.png)
+![Scoreboard text settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/scoreboard-text-settings.png)
 
 > Note: If you don't have TextMeshPro installed, you can find it under **Window > Package Manager**.
 

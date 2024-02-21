@@ -8,11 +8,11 @@ Blend shape mapping maps facial expressions to various preset shapes on your cha
 
 2\. Expand your character's root object by clicking the arrow next to it in the Hierarchy pane, if it's not already expanded.
 
-![Avatar Model References](https://www.flipsidexr.com/files/docs/screenshots/avatar-model-references.png)
+![Avatar Model References](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/avatar-model-references.png)
 
 3\. Make sure the **Expression Type** is set to **Blend Shapes**.
 
-![Expression types](https://www.flipsidexr.com/files/docs/screenshots/expression-types.png)
+![Expression types](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/expression-types.png)
 
 4\. In the Inspector pane, click on the **Skinned Mesh Renderer** referenced in the **Mesh** setting of the **Avatar Model References** component to find the object within your character's hierarchy that has a **Skinned Mesh Renderer** component with a **BlendShapes** list.
 
@@ -22,7 +22,7 @@ If your character has more than one mesh with blend shapes, drag the additional 
 
 5\. For each expression found on the **Avatar Model References** component, click **Add Blend Shape** and select the corresponding blend shape from the dropdown list. You can click on the eye icon to preview that blend shape being applied, to verify you've selected the right shape.
 
-![Blend shape selection](https://www.flipsidexr.com/files/docs/screenshots/blend-shape-selection.png)
+![Blend shape selection](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/blend-shape-selection.png)
 
 Repeat step 5 for each expression to complete your face mapping.
 

@@ -12,7 +12,7 @@ You can find the BVH export options with these steps:
 
 You should see the take editor window open, which should look like this:
 
-![Take editor window](https://www.flipsidexr.com/files/docs/screenshots/take-editor.jpg)
+![Take editor window](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/take-editor.jpg)
 
 From here, you can export the BVH data for individual parts or all of them at once.
 

@@ -16,7 +16,7 @@ Here are the steps to trigger a camera move:
 
 Here's how it should look once it's all setup:
 
-![FlipsideActions component](https://www.flipsidexr.com/files/docs/screenshots/flipsideactions-component.png)
+![FlipsideActions component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/flipsideactions-component.png)
 
 ## Triggering actions in your set from internal Flipside events
 

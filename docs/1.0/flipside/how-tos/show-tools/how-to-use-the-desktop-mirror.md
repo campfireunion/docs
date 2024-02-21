@@ -14,7 +14,7 @@ The desktop mirror requires a PC with a dedicated GPU and can't support PCs with
 
 **Step 3.** Under the **General** tab, change the **Desktop Mirror** setting to **On (Desktop Mirror Enabled)**.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-13_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_7-13_1.mp4
 
 **Step 4.** If you have multiple monitors connected, select the monitor you wish to mirror under the **Monitor to mirror** setting.
 
@@ -28,7 +28,7 @@ You should now be ready to use the desktop mirror in VR.
 
 **Step 3.** Click on one of the **Desktop Mirror** props in the list to add it to your set.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-13_2.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_7-13_2.mp4
 
 Note that there are two desktop mirror props. One is visible only to you and the other is also visible to cameras so audiences can see it. Use one or the other, depending on whether you want your audience to see your desktop in the output or not.
 

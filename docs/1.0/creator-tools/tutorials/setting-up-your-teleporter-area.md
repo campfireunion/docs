@@ -8,7 +8,7 @@ The main component of this is **Nav Mesh Surface**, which is found on the **Cont
 
 The teleporter area will be updated automatically whenever you rebuild your set bundle file, but you will likely want to see the changes you've made before rebuilding. To do this, select the **Contents** object, then click the **Bake** button in its **Nav Mesh Surface** component.
 
-![Teleporter area](https://www.flipsidexr.com/files/docs/screenshots/teleporter-area.png)
+![Teleporter area](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/teleporter-area.png)
 
 The light blue area in the Scene window that appears whenever the **Contents** object is highlighted shows you where the teleporter area is currently defined.
 
@@ -18,7 +18,7 @@ When you mark an object as an interactive prop by adding the **PropElement** com
 
 To ignore other objects that are not interactive, add the **Nav Mesh Modifier** component and check the **Ignore From Build** checkbox. Note that this means you will be able to teleport over these objects as if they're not there, potentially causing your characters to appear inside of these objects.
 
-![NavMesh modifier](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-modifier.png)
+![NavMesh modifier](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_nav-mesh-modifier.png)
 
 ### Excluding objects from the teleport area
 
@@ -26,7 +26,7 @@ Unity's NavMesh system will by default assume that you wish to be able to telepo
 
 To exclude an object from the teleporter area, add the **Nav Mesh Obstacle** component and check the **Carve** checkbox. This will carve out the area of that object from the teleporter so you can't teleport into or onto it.
 
-![NavMesh Obstacle](https://www.flipsidexr.com/files/docs/2023.1/CT_nav-mesh-obstacle.png)
+![NavMesh Obstacle](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_nav-mesh-obstacle.png)
 
 ---
 

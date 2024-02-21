@@ -8,11 +8,11 @@ This method is similar to the [[:animation mapping]], but instead of mapping to 
 
 1\. Open your character's Unity scene and select the character in the Hierarchy pane.
 
-![Avatar Model References](https://www.flipsidexr.com/files/docs/screenshots/avatar-model-references.png)
+![Avatar Model References](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/avatar-model-references.png)
 
 2\. In the Inspector pane, change the **Expression Type** setting to **Animation Parameters**.
 
-![Expression types](https://www.flipsidexr.com/files/docs/screenshots/expression-types.png)
+![Expression types](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/expression-types.png)
 
 3\. Scroll down in the Inspector pane and click **Add Component** then add a **Facial Expression Reference** component. Animation parameters mapping will be added to this component instead of via the main **Avatar Model References** component.
 
@@ -20,7 +20,7 @@ This method is similar to the [[:animation mapping]], but instead of mapping to 
 
 5\. Double-click the **Controller** property of the **Animator** component also found on your character's root object. This will open the animator for editing.
 
-![Animation parameters](https://www.flipsidexr.com/files/docs/screenshots/animation-parameters.png)
+![Animation parameters](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/animation-parameters.png)
 
 6\. Click on the parameters tab then click the **+** icon and select **Float** to create new animation parameters.
 

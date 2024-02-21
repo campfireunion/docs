@@ -4,7 +4,7 @@ You can find the output settings by clicking on the gear icon on the [[Flipside 
 
 This is what the output settings looks like:
 
-![Output settings window](https://www.flipsidexr.com/files/docs/2023.1/desktop-interface_output-settings.png)
+![Output settings window](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/desktop-interface_output-settings.png)
 
 Output settings include:
 

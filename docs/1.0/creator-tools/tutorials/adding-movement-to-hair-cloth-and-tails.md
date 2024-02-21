@@ -18,13 +18,13 @@ Edit > Project Settings > Player > Other Settings > Scripting Backend
 
 Then, set your **Api Compatibility Level** to **.Net 4.x**. Do this for both your Standalone and Android settings using the tabs at the top of your Player menu.
 
-![Flipside Creator Tools - Player settings](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_player-settings.png)
+![Flipside Creator Tools - Player settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_player-settings.png)
 
 **Step 3.** Import your Magica Cloth into the project.
 
 **Step 4.**  In your scene, create an empty game object in the hierarchy under the main root object. Name it something recognizable, like ‘Magica Hair’.
 
-![Flipside Creator Tools - Add object](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_add-magica-hair.png)
+![Flipside Creator Tools - Add object](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_add-magica-hair.png)
 
 **Step 5.** With that object selected in the hierarchy window, click **Add Component** on the **Inspector** window and search for the ‘Magica Bone Cloth’ component. 
 
@@ -32,7 +32,7 @@ Dock the Cloth Monitor window somewhere around your project's layout. This will 
 
 **Step 6.** In the Inspector window under **Root List**, click the **+** icon and add the first bone chain you want to procedurally animate. 
 
-![Flipside Creator Tools - Root list](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_root-list.png)
+![Flipside Creator Tools - Root list](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_root-list.png)
 
 Repeat Step 6 for each bone chain for a particular group.  In this case, all of the characters hair bones should be in the root-list.
 
@@ -48,15 +48,15 @@ Bone colliders are similar to physics colliders; they inform the simulating Magi
 
 If the Culling Mode isn’t disabled, it can cause unexpected simulation problems with Flipside’s multi-camera system. To do this, set the **Culling Mode** to **Off**.
 
-![Flipside Creator Tools - Culling mode](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_collider-list.png)
+![Flipside Creator Tools - Culling mode](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_collider-list.png)
 
 **Step 9.** Under **Presets**, select a preset that best fits the type of movement you want. 
 
-![Flipside Creator Tools - Select preset](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_select-a-preset.png)
+![Flipside Creator Tools - Select preset](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_select-a-preset.png)
 
 **Step 10.** Scroll down to the bottom of the component and press **Create**. The appearance of the bones in your scene should change.
 
-![Flipside Creator Tools - Create Magica bones](https://www.flipsidexr.com/files/docs/2023.1/CT_MB_create-magica-bones.png)
+![Flipside Creator Tools - Create Magica bones](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/CT_MB_create-magica-bones.png)
 
 **Step 11.** Press **Play** and watch your character's hair move in the scene. If you see unexpected movement, you can add a **Magica Physics Manager** component to your scene to improve the evaluation.   
 

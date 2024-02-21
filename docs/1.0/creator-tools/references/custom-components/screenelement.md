@@ -6,7 +6,7 @@ Attaching a ScreenElement to any object will cause Flipside to replace that obje
 * **Main output** - Mirror the main Flipside camera output.
 * **Desktop** - Mirror the output of one of your desktop monitors.
 
-![ScreenElement component](https://www.flipsidexr.com/files/docs/screenshots/screen-element.png)
+![ScreenElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/screen-element.png)
 
 ---
 

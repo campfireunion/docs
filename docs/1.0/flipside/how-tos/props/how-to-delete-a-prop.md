@@ -6,7 +6,7 @@ Here's how to remove a prop from your set:
 
 **Step 2.** Click on the **Delete Prop** button on the prop properties menu.
 
-:gif https://www.flipsidexr.com/files/docs/2023.1/help_7-18_1.mp4
+:gif https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/2023.1/help_7-18_1.mp4
 
 ---
 

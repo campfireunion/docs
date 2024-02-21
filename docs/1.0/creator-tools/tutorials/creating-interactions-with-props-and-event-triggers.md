@@ -20,7 +20,7 @@ Now go to **File > Save** or press **Ctrl+S** to save your scene.
 
 Lastly, go to **Flipside Creator Tools > Create Set From Current Scene**. You should now have a scene that looks like this and is all set up for bundling and uploading.
 
-![The most basic set](https://www.flipsidexr.com/files/docs/tutorials/the-most-basic-set.png)
+![The most basic set](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/the-most-basic-set.png)
 
 For fun, I also like to change the sky of the set. Click on the root object of the set and on the **SetInfo** component in the **Inspector** window, set the **Sky ID** to `3`. This will load a slightly cartoony night sky when you press play or load the set in Flipside.
 
@@ -30,13 +30,13 @@ Go to **GameObject > 3D Object > Cylinder** to create the basic shape of our fla
 
 Select the cylinder object in the hierarchy, and make the following settings changes in the **Inspector** window:
 
-![Flashlight cylinder settings](https://www.flipsidexr.com/files/docs/tutorials/flashlight-cylinder-settings.png)
+![Flashlight cylinder settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/flashlight-cylinder-settings.png)
 
 Next, right-click the flashlight in the **Hierarchy** window and choose **Light > Spotlight** to add a light source as a child of the flashlight object.
 
 Select the light object in the hierarchy, and make the following settings changes in the **Inspector** window:
 
-![Flashlight light settings](https://www.flipsidexr.com/files/docs/tutorials/flashlight-light-settings.png)
+![Flashlight light settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/flashlight-light-settings.png)
 
 ## Making the flashlight interactive
 
@@ -54,7 +54,7 @@ Next, add a **ToggleElement** component to the flashlight prop as well. We're go
 
 Under the **PropElement**'s **OnUseButtonDown** event, click the **+** to create a slot for an event handler, then drag the **ToggleElement** component into the empty slot. Then choose **ToggleElement > ToggleState()**.
 
-![Prop and toggle](https://www.flipsidexr.com/files/docs/tutorials/prop-and-toggle.png)
+![Prop and toggle](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/prop-and-toggle.png)
 
 Now the prop is connected to the toggle, and we're ready to configure the **ToggleElement** and connect it to the light.
 
@@ -64,13 +64,13 @@ Further down on the **ToggleElement**, click the **+** under both the **OnActiva
 
 For both events, click on the dropdown that says **No Function** and choose **GameObject > SetActive (bool)**.
 
-![Toggle and spotlight](https://www.flipsidexr.com/files/docs/tutorials/toggle-and-spotlight.png)
+![Toggle and spotlight](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/toggle-and-spotlight.png)
 
 Lastly, make sure the checkbox is checked under **OnActivated** and unchecked under **OnDeactivated**, and then select the spotlight object in the **Hierarchy** and uncheck the checkbox next to its name in the **Inspector** so that it starts in an off state and turns on when you grab it and press the trigger.
 
 If everything is setup correctly, you should be able to press play in Unity and use your new flashlight. Grab it with a controller and press the trigger to toggle the flashlight on and off again.
 
-<!-- ![Flashlight prop](https://www.flipsidexr.com/files/docs/tutorials/flashlight-prop.png) -->
+<!-- ![Flashlight prop](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/tutorials/flashlight-prop.png) -->
 
 To build your set for use in Flipside, go to **Flipside Creator Tools > Open Creator Tools** then click on the **Build Set Bundle** button. Your flashlight should work just the same in Flipside as it does in the Unity editor.
 

@@ -33,19 +33,19 @@ Manager. You can reach this screen in two ways:
 1\. Right-click on the tracker icon in the SteamVR window and choose **Manage Vive Tracker**,
 then under the **Controllers** section choose **Manage Vive Trackers**.
 
-![Manage Vive Tracker via right-click](https://www.flipsidexr.com/files/docs/screenshots/steamvr/Tracker.png)
+![Manage Vive Tracker via right-click](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/steamvr/Tracker.png)
 
 2\. Click on the hamburger settings button in the SteamVR window and choose **Settings** from
 the dropdown. In the settings window, make sure that **Controllers** is selected in the
 sections on the left then choose **Manage Vive Trackers**.
 
-![Manage Vive Trackers via settings](https://www.flipsidexr.com/files/docs/screenshots/steamvr/SteamVR.png)
+![Manage Vive Trackers via settings](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/steamvr/SteamVR.png)
 
 Next, Launch Flipside and select the [[Characters]] palette. Grab the palette and turn it
 upside down. Press the **Connect Trackers** button on the underside of the palette and
 follow the calibration instructions.
 
-![Controller to Manage Vive Trackers](https://www.flipsidexr.com/files/docs/screenshots/steamvr/Settings.png)
+![Controller to Manage Vive Trackers](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/steamvr/Settings.png)
 
 Once you are in the tracker manager, use the **Identify Tracker** button to make the green
 light blink on each tracker. Go through and assign the desired tracker to each location
@@ -53,7 +53,7 @@ light blink on each tracker. Go through and assign the desired tracker to each l
 each time you start up so it's also a good idea to label which tracker maps to each body
 part.
 
-![Identify trackers](https://www.flipsidexr.com/files/docs/screenshots/steamvr/TrackerSettings.png)
+![Identify trackers](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/steamvr/TrackerSettings.png)
 
 Next, launch Flipside and select the **Characters** menu. Click the **Calibrate**
 button along the bottom of the menu and follow the calibration instructions. With the trackers

@@ -2,7 +2,7 @@
 
 Positions an audio playback location on set that, when triggered, uses Flipside's AudioSource pool so you can use a larger number of audio sources without hitting Unity's limits.
 
-![PooledAudioElement component](https://www.flipsidexr.com/files/docs/screenshots/pooled-audio-element.png)
+![PooledAudioElement component](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/pooled-audio-element.png)
 
 Basic options:
 
