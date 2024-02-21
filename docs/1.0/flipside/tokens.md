@@ -47,7 +47,7 @@ You can see your transaction history under the **Tokens** tab on the dashboard m
 
 When an item is for sale in Flipside, a **Buy** icon will appear over it like this:
 
-**[INSERT GRAPHIC]**
+![Tokens buy button](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_buy_button.jpg)
 
 Hovering over the item will show the amount of tokens that the item costs to buy.
 
