@@ -59,7 +59,7 @@ Click on the item and you will be prompted to pay for it with tokens from your a
 
 You can send tokens to creators in the form of tips. To do so, go to their channel and click on the **Send {username} a tip** button. You will be prompted to choose the tip amount you want to send. If you do not have enough tokens, there will be an option to buy more tokens in order to send the tip.
 
-We will be introducing more ways for creators to earn tokens over time.
+> We will be introducing more ways for creators to earn tokens over time.
 
 ## Requesting a payout
 
