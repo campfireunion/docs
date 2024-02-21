@@ -43,6 +43,8 @@ All prices shown are in USD.
 
 You can see your transaction history under the **Tokens** tab on the dashboard menu, or on the [Tokens](/tokens) page of the Flispide Creator Portal website.
 
+![Tokens dashboard screen](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_dashboard.jpg)
+
 ## Buying items with tokens
 
 When an item is for sale in Flipside, a **Buy** icon will appear over it like this:
