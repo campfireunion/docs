@@ -71,7 +71,7 @@ You can request a payout by visiting the [Flipside Creator Portal](/user) and cl
 
 Payouts can be requested in increments of 200,000 tokens which are paid out at the rate of $150 USD, so 400,000 tokens equals $300 USD and so on. This works out to an average breakdown of the following in terms of money distribution:
 
-**[INSERT GRAPHIC OF 50/30/20 SPLIT]**
+#[Tokens breakdown chart](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_breakdown_chart.png)
 
 This is not an exact breakdown because not all tokens are worth the same amount. There is a discount for purchasing tokens in larger quantities, but tokens can also be awarded as contest prizes and through achievements, and tokens that were not backed by a purchase can still be cashed out for real money.
 
