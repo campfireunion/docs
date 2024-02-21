@@ -8,6 +8,8 @@ Our mission is to help creators build sustainable channels where they can earn r
 
 You can buy tokens in Flipside under the **Tokens** tab on the dashboard menu, or on the [Tokens](/tokens) page of the Flipside Creator Portal website.
 
+![Tokens dashboard screen](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_dashboard.jpg)
+
 ## Other ways to earn tokens
 
 We run contests periodically where you can win tokens. We will also be awarding tokens for other achievements and activities in Flipside once we launch our achievements system, so stay tuned for that too.
@@ -42,8 +44,6 @@ All prices shown are in USD.
 ## Seeing your transaction history
 
 You can see your transaction history under the **Tokens** tab on the dashboard menu, or on the [Tokens](/tokens) page of the Flispide Creator Portal website.
-
-![Tokens dashboard screen](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_dashboard.jpg)
 
 ## Buying items with tokens
 
