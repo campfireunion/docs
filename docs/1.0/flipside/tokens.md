@@ -65,6 +65,8 @@ We will be introducing more ways for creators to earn tokens over time.
 
 You can request a payout by visiting the [Flipside Creator Portal](/user) and clicking on the **Request Payout** button. You will be asked to select the payout amount based on your available token balance and to enter the email address associated with your PayPal account. This is where we will send your payment.
 
+![Tokens request payout](https://flipside.nyc3.cdn.digitaloceanspaces.com/docs/screenshots/tokens_request_payout.png)
+
 > Please note that payments can take up to 48 hours to be processed.
 
 Payouts can be requested in increments of 200,000 tokens which are paid out at the rate of $150 USD, so 400,000 tokens equals $300 USD and so on. This works out to an average breakdown of the following in terms of money distribution:
