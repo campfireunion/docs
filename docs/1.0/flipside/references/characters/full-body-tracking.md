@@ -66,4 +66,4 @@ straight into Flipside to calibrate and go.
 
 ---
 
-Next: [[ Studio / References / Characters / Puppeteering ]]
+Next: [[ Flipside / References / Characters / Puppeteering ]]

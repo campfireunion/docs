@@ -11,7 +11,8 @@ Open the Dashboard through button the main menu.
 * **Subscriptions**: See a list of all the people you’ve subscribed to for quick access to their channel.
 * **Messages**: Get all your notifications and chat on the Messages tab.  This is where you can accept friend requests, see your multiplayer invites and messages with your friends.
 * **Studio**: If you create content, this is where you go to pick up where you left off.  Find your recent recordings along with the characters and sets you last used.
-* **Settings**: This is where you find various settings for Flipside.  Visit  Dashboard settings for a full overview.
+* **Tokens**: This is where you can purchase Flipside tokens and see your transaction history.
+* **Settings**: This is where you find various settings for Flipside.  Visit Dashboard settings for a full overview.
 * **Online friends**:  A list of all your Flipside friends that are currently online.
 
 ---

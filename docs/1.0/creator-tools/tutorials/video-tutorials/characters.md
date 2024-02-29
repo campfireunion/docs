@@ -2,7 +2,7 @@
 
 The following tutorials guide you through using the [Flipside Creator Tools](/docs/2021.1/creator-tools) to import your own characters into Flipside.
 
-- [Bring your own characters into Flipside](#bring-your-own-characters-into-flipside-studio)
+- [Bring your own characters into Flipside](#bring-your-own-characters-into-flipside)
 - [Importing characters from Ready Player Me](#importing-characters-from-ready-player-me)
 - [Importing characters from VRoid Studio](#importing-characters-from-vroid-studio)
 - [Importing characters from Daz](#importing-characters-from-daz)

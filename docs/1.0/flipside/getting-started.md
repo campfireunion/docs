@@ -4,8 +4,8 @@ Flipside is a metaverse social media platform with a built-in real-time virtual 
 
 * [[> Installing Flipside]]
 * [[> Hardware setup]]
-<!--  * [ VR setup ](/docs/2023.2/studio/getting-started/hardware-setup#vr-setup)
-  * [ Computer ](/docs/2023.2/studio/getting-started/hardware-setup#computer)
-  * [ Business users ](/docs/2023.2/studio/getting-started/hardware-setup#business-users) -->
+<!--  * [ VR setup ](/docs/1.0/flipside/getting-started/hardware-setup#vr-setup)
+  * [ Computer ](/docs/1.0/flipside/getting-started/hardware-setup#computer)
+  * [ Business users ](/docs/1.0/flipside/getting-started/hardware-setup#business-users) -->
 * [[> Multiplayer requirements]]
 * [[> Installing Flipside Broadcaster]]

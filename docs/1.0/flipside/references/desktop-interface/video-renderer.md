@@ -25,7 +25,7 @@ The video renderer lets you customize your render options including output forma
 
 ### Export options
 
-The video renderer supports a number of different export options. For information on export options, visit the [video export page](/docs/2023.2/studio/references/exports/video-exports).
+The video renderer supports a number of different export options. For information on export options, visit the [video export page](/docs/1.0/flipside/references/exports/video-exports).
 
 ---
 
