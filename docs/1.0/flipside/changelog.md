@@ -12,6 +12,8 @@
 ### Bug fixes
 
 - Audio timing fixed on overdubs
+- Fixed Ready Player Me shader issues
+- Fixed Ready Player Me legs being too far apart
 
 ## 2023.2.4-stable
 
