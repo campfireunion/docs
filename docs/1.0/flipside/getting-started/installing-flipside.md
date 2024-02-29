@@ -2,7 +2,7 @@
 
 ## Download
 
-Flipside can be installed through the [Meta Quest store](https://ocul.us/3VjQ3NM) or [Meta Rift store](https://ocul.us/3AAw5Xm).
+Flipside can be installed through the [Meta Quest](https://ocul.us/3VjQ3NM), [Meta Rift](https://ocul.us/3AAw5Xm) or [Pico VR](https://store-global.picoxr.com/global/detail/1/7280543599224242182) app stores.
 
 ## Account
 
