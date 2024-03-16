@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.1-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#11-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#11-stable)</span><br>
+<small>March 16, 2024</small><br>
+Merged Spotlight and Explore tabs, expanded messages, and other bug fixes.
+
 **1.0-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#10-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#10-stable)</span><br>
 <small>February 22, 2024</small><br>
