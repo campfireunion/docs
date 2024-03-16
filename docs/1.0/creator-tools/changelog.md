@@ -1,5 +1,9 @@
 # Flipside Creator Tools Changelog
 
+## 1.1-stable
+
+No changes. Version bump to maintain parity across apps.
+
 ## 1.0-stable
 
 No changes. Version bump to maintain parity across apps.
