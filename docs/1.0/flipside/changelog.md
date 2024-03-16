@@ -1,5 +1,25 @@
 # Flipside Changelog
 
+## 1.1-stable
+
+### Improvements
+
+- Merged the Spotlight and Explore tabs into one to increase visibility of new content
+- Messages now expand in length so you don't have to click to reveal the full message
+- Initiates calibration if you select a character and haven't calibrated before
+
+### Bug fixes
+
+- Fixed Ready Player Me material issues on Rift
+- Fixed invisible characters being able to grab props with their hands
+- Fixed holding a prop and changing visibility causing interactions to break
+- Fixed errors on mobile platforms referring to uDesktopDuplication
+- Fixed text overflow on hand menu post titles
+- Fixed text overflow on audio browser track titles
+- Fixed being able to publish the same recording as multiple posts
+- Fixed chair marks appearing in playback
+- Fixed posts not sorting chronologically on channel details window
+
 ## 1.0-stable
 
 ### Improvements
