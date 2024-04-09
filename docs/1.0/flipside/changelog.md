@@ -1,5 +1,20 @@
 # Flipside Changelog
 
+## 1.2-stable
+
+### Improvements
+
+- Slimmer and more streamlined dashboard focused around content
+- Changed "Worlds" category to "Experiences" to encompass more types of world-based and experiential content
+- Added content search to find specific posts and channels
+- Increased your initial scale on new sets when in ghost mode, making certain interactions easier
+- Increased walking speed and improved Ready Player Me walking movement
+- Included offline friends in dashboard list so you can quickly invite any friend to collab, not just those who are already online
+
+### Bug fixes
+
+- Fixed the Recordings menu not returning to Parts on saving added parts
+
 ## 1.1-stable
 
 ### Improvements
