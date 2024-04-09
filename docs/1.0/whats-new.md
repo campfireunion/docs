@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.2-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#12-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#12-stable)</span><br>
+<small>April 10, 2024</small><br>
+Redesigned and streamlined dashboard, post and channel search, walking improvements, and a fix to the Recordings menu.
+
 **1.1-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#11-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#11-stable)</span><br>
 <small>March 16, 2024</small><br>
