@@ -1,5 +1,11 @@
 # Flipside Creator Tools Changelog
 
+## 1.3-stable
+
+### Bug fixes
+
+- Fixed null reference when running in editor with toggles connected to buttons
+
 ## 1.2-stable
 
 No changes. Version bump to maintain parity across apps.
