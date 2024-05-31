@@ -1,5 +1,17 @@
 # Flipside Changelog
 
+## 1.3-stable
+
+### Improvements
+
+- Added ability to change the scale of any character via the **Characters** menu
+- Added ability to change the pitch of your voice via the **Settings** panel on the dashboard
+- Meta friends can now be added to your Flipside friend list to make connecting easier
+
+### Bug fixes
+
+- Fixed a grabbability issue on the **Sets** menu when the AI Set Creator is open
+
 ## 1.2-stable
 
 ### Improvements
