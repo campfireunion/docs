@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.3-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#13-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#13-stable)</span><br>
+<small>June 6, 2024</small><br>
+Scale characters big or small, change your voice's pitch up and down, and add your Meta friends to Flipside.
+
 **1.2-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#12-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#12-stable)</span><br>
 <small>April 10, 2024</small><br>
