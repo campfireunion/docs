@@ -11,6 +11,7 @@
 ### Bug fixes
 
 - Fixed a grabbability issue on the **Sets** menu when the AI Set Creator is open
+- Fixed being able to calibrate with your arms higher than your head, causing contorted characters
 
 ## 1.2-stable
 
