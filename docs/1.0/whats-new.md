@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.4-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#14-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#13-stable)</span><br>
+<small>July 4, 2024</small><br>
+Featured channels and other improvements to help creators gain exposure and get more out of Flipside.
+
 **1.3-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#13-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#13-stable)</span><br>
 <small>June 6, 2024</small><br>
