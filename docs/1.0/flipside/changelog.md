@@ -1,5 +1,19 @@
 # Flipside Changelog
 
+## 1.4-stable
+
+### Improvements
+
+- Added featured channels to the featured section of the dashboard
+- Improved loading notices with informational popups
+- Added remixed post to hand menu post details
+
+### Bug fixes
+
+- Fixes for sitting characters appearing too high
+- Various fixes related to character scale
+- Improved ability to walk around sets
+
 ## 1.3-stable
 
 ### Improvements
