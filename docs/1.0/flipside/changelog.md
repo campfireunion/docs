@@ -1,5 +1,18 @@
 # Flipside Changelog
 
+## 1.5-stable
+
+### Improvements
+
+- Implemented Meta's age verification to automatically filter content for age-appropriateness
+- Changed saving files on Rift to `Documents/Flipside` instead of `Documents/Flipside Studio` to align with the app rename
+- Upgraded the Unity engine to 2022.3.40f1 (Flipside Creator Tools are remaining on 2020.3.36f1 at this time)
+
+### Bug fixes
+
+- Fixed tokens tab showing "Loading..." if a purchase is cancelled
+- Fixed loading notices changing position when you scale the world while invisible
+
 ## 1.4-stable
 
 ### Improvements
