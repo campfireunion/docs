@@ -1,5 +1,11 @@
 # Flipside Changelog
 
+## 1.6-stable
+
+### Improvements
+
+- Added "Record Video" button to the camera switcher, enabling 1080p video recording on Quest and Rift. Saves to Gallery on Quest and Documents/Flipside/Videos on PC
+
 ## 1.5-stable
 
 ### Improvements
