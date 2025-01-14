@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.6-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#16-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#16-stable)</span><br>
+<small>January 16, 2025</small><br>
+Added "Record Video" button to the camera switcher, enabling 1080p video recording on Quest and Rift. Saves to Gallery on Quest and Documents/Flipside/Videos on PC.
+
 **1.5-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#15-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#15-stable)</span><br>
 <small>August 22, 2024</small><br>
