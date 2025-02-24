@@ -4,6 +4,11 @@
 
 Check back here to learn about all the latest changes to Flipside.
 
+**1.7-stable**<br>
+<span>[Flipside Changelog](/docs/1.0/flipside/changelog#17-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#17-stable)</span><br>
+<small>February 24, 2025</small><br>
+Fixed audio quality issues recording videos on Meta Quest
+
 **1.6-stable**<br>
 <span>[Flipside Changelog](/docs/1.0/flipside/changelog#16-stable) &middot; [Creator Tools Changelog](/docs/1.0/creator-tools/changelog#16-stable)</span><br>
 <small>January 16, 2025</small><br>
