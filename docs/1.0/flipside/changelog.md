@@ -1,5 +1,11 @@
 # Flipside Changelog
 
+## 1.7-stable
+
+### Bug fixes
+
+- Fixed audio quality issues recording videos on Meta Quest
+
 ## 1.6-stable
 
 ### Improvements
